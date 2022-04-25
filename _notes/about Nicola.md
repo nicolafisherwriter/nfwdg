@@ -38,3 +38,9 @@ I'm a former business advisor turned mentor, coach and writer. I focus on guidin
 - [Website](https://agentlerpace.co.uk)
 - [Twitter](https://twitter.com/nfisherwriter)
 - [Instagram](https://www.instagram.com/nicolafisherwriter/)
+
+<style>
+  .wrapper {
+    max-width: 33em;
+  }
+</style>
