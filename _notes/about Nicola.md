@@ -42,6 +42,6 @@ I'm a former business advisor turned mentor, coach and writer. I focus on guidin
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 33em;
   }
 </style>
