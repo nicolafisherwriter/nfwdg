@@ -13,7 +13,7 @@ This digital garden is created in Obsidian, set up using GitHub and Netlify, and
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 146em;
   }
 </style>
 
