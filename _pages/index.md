@@ -7,13 +7,9 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+[[GitHub/pages/Start Here]]
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+This digital garden is created in Obsidian, set up using GitHub and Netlify, and a template by [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template). Use this [step by step guide](https://beingpax.medium.com/a-non-technical-guide-to-set-up-digital-garden-with-obsidian-for-free-62d6df75553c) to publish your own digital garden.
 
 <style>
   .wrapper {
@@ -24,4 +20,9 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 index test
 
+
+
 [[Julia Child]]
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 1px;">
+  <span style="font-weight: bold">[[GitHub/pages/Start Here]]</span> to begin your exploration.
+</p>
