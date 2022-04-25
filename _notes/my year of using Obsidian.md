@@ -1,5 +1,5 @@
 ---
-title: text
+title: my year of using Obsidian
 tags: writing
 ---
 

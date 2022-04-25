@@ -1,6 +1,6 @@
 ---
 title: learning
-tags: development
+tags: learning
 ---
 
 ## what I'm learning now

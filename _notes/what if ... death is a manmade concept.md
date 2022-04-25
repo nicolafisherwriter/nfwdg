@@ -1,5 +1,5 @@
 ---
-title: favourite notebooks
+title: what if death is a manmade concept
 tags: writing
 ---
 
