@@ -11,7 +11,8 @@ permalink: /
 
 This Digital Garden contains notes on a range of topics including:
 
-- writing
+- [[writing]]
+- [[gardening]]
 - photography
 - tech and tools
 - a gentler pace 
