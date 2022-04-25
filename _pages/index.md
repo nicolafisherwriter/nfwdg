@@ -20,7 +20,7 @@ This digital garden is created in Obsidian, set up using GitHub and Netlify, and
 
 index test
 
-
+![[* Nicola Sq.jpg]]
 
 [[Julia Child]]
 
