@@ -7,6 +7,8 @@ permalink: /
 
 ## Welcome! 🌱
 
+![](https://source.unsplash.com/ikgmBELD7PQ/1900x1200)
+
 This Digital Garden contains notes on a range of topics including:
 
 - writing
