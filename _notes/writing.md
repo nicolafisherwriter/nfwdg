@@ -12,5 +12,3 @@ tags: writing
 - [NotePD](https://notepd.com/profile/nicolafisher)
 - [Newsletter](https://www.getrevue.co/profile/nicolafisherwriter)
 
-## quotes
-
