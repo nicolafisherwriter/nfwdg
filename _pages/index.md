@@ -14,7 +14,7 @@ This Digital Garden contains notes on a range of topics including:
 - tech and tools
 - a gentler pace 
 
-To begin [[start here]].
+To begin, take the [[tour]].
 
 *This digital garden is created in Obsidian, set up using GitHub and Netlify, and a template by [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template). Use this [step by step guide](https://beingpax.medium.com/a-non-technical-guide-to-set-up-digital-garden-with-obsidian-for-free-62d6df75553c) to publish your own digital garden.*
 
