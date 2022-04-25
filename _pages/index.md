@@ -30,4 +30,4 @@ index test
   <span style="font-weight: bold">[[GitHub/pages/Start Here]]</span> to begin your exploration.
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/39868729-ca4d-4d81-8450-6c859121bbda/deploy-status)](https://app.netlify.com/sites/ephemeral-lollipop-46347c/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/39868729-ca4d-4d81-8450-6c859121bbda/deploy-status)](https://app.netlify.com/sites/ephemeral-lollipop-46347c/deploys)
