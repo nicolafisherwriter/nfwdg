@@ -1,4 +1,5 @@
 ---
+layout: page
 title: about me
 tags: about
 ---
