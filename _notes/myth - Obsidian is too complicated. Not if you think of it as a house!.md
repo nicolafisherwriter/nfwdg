@@ -1,14 +1,11 @@
 ---
-Date: 14th January, 2022
-
-Link: house
-
-Tags: writing, obsidian
+title: myth - Obsidian is too complicated. Not if you think of it as a house.
+tags: writing
 ---
 
 # myth - Obsidian is too complicated. Not if you think of it as a house!
 
-I’ve been a fan of Obsidian since April 2021 when I first heard about it. I stayed up late into the night learning about potential setups. I experimented with plugins. I organised my folders and my tags. I watched countless explanatory YouTube videos.
+I’ve been a fan of [[Obsidian]] since April 2021 when I first heard about it. I stayed up late into the night learning about potential setups. I experimented with plugins. I organised my folders and my tags. I watched countless explanatory YouTube videos.
 
 I was aiming for the perfect setup.
 

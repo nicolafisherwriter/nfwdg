@@ -1,11 +1,11 @@
 ---
 title: my year of using Obsidian
-tags: writing
+tags: writing, techandtools
 ---
 
 *this is unfinished and currently in draft*
 
-It's exactly a year since I first came across Obsidian. I watched Ali Abdaal talk about Notion, [Roam](https://youtu.be/bpikCLhpIRY) and [note taking](https://youtu.be/wpcVQeF07G4). He talked about something called [Second Brain](https://youtu.be/OP3dA2GcAh8).
+It's exactly a year since I first came across [[Obsidian]]. I watched Ali Abdaal talk about Notion, [Roam](https://youtu.be/bpikCLhpIRY) and [note taking](https://youtu.be/wpcVQeF07G4). He talked about something called [Second Brain](https://youtu.be/OP3dA2GcAh8).
 
 I was wowed. I wanted this tech. 
 

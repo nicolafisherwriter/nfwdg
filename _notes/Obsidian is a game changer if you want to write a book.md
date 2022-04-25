@@ -1,12 +1,7 @@
 ---
-Date: 5th January, 2022
-
-Link: book
-
-Tags: writing, obsidian
+title: Obsidian is a game changer if you want to write a book
+tags: writing, techandtools
 ---
-
-# Obsidian is a game changer if you want to write a book
 
 **This is the process I’m using to write my book.**
 
@@ -14,7 +9,7 @@ My big focus for 2022 is on publishing a book. It’s a goal that’s been on my
 
 Although I’ve dabbled with writing over the years — journaling, fountain pens, blogging, eBooks — I’ve never taken it seriously enough to believe that I could write a book.
 
-In April 2021, I first came across Obsidian. It lit a fire beneath me. In some way it tapped into my psyche, matched my thought process and, for the first time ever, made writing a real possibility.
+In April 2021, I first came across [[Obsidian]]. It lit a fire beneath me. In some way it tapped into my psyche, matched my thought process and, for the first time ever, made writing a real possibility.
 
 I can only say all this in hindsight. Now, nine months later, I have the beginnings of a second brain, replete with everything I’ve created. eCourses, newsletters, blogs, notes, references, quotes, as well as several attempts early on to outline a book.
 

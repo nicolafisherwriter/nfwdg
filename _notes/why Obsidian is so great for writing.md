@@ -1,9 +1,6 @@
 ---
-Date: 1st November, 2021
-
-Link: obsidian
-
-Tags: writing, obsidian
+title: why Obsidian is so great for writing
+tags: writing, techandtools
 ---
 
 # why Obsidian is so great for writing
@@ -12,7 +9,7 @@ Tags: writing, obsidian
 
 If you want to write more, start using a note taking app. It will transform your practice.
 
-Obsidian is my tool of choice but there are many others. It works because it mirrors the way I think, allows me to make connections, both random and specific, and doesn't require me to have all my ideas complete.
+[[Obsidian]] is my tool of choice but there are many others. It works because it mirrors the way I think, allows me to make connections, both random and specific, and doesn't require me to have all my ideas complete.
 
 Before Obsidian, my writing was hit and miss due to:
 
