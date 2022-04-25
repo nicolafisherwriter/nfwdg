@@ -1,5 +1,5 @@
 ---
-title: Consistency is key for me - Nicola test 2
+title: consistency
 tags: writing
 ---
 

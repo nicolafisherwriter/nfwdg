@@ -9,10 +9,10 @@ permalink: /
 
 This Digital Garden contains notes on a range of topics including:
 
-- #writing
-- #photography
-- #techandtools
-- #agentlerpace 
+- writing
+- photography
+- tech and tools
+- a gentler pace 
 
 To begin [[start here]].
 

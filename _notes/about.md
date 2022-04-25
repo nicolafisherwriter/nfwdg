@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about
+title: about me
+tags: about
 ---
 
 ## About Me

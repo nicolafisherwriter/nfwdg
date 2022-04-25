@@ -5,4 +5,4 @@ tags: digitalgarden
 
 ## Get Started
 
-Read [[GitHub/pages/about]] me.
+Read [[GitHub/notes/about]] me.
