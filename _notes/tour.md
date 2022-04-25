@@ -5,4 +5,4 @@ tags: digitalgarden
 
 ## take the tour
 
-Read [[GitHub/notes/about me]].
+Find out more [[about Nicola]].
