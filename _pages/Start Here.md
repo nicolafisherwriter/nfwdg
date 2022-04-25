@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Start Here
+title: start here
 id: start
 permalink: /
 ---
