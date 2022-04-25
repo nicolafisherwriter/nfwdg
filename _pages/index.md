@@ -12,9 +12,11 @@ permalink: /
 This Digital Garden contains notes on a range of topics including:
 
 - [[writing]]
+- [[thoughts]]
+- [[planning]]
 - [[gardening]]
 - photography
-- tech and tools
+- [[tech and tools]]
 - a gentler pace 
 
 To begin, take the [[tour]].
