@@ -20,7 +20,9 @@ This digital garden is created in Obsidian, set up using GitHub and Netlify, and
 
 index test
 
-![[* Nicola Sq.jpg]]
+
+
+![Spring lamb](https://agentlerpace.co.uk/wp-content/uploads/2022/02/rod-long-aJvSX36kweg-unsplash.jpeg "a title")
 
 [[Julia Child]]
 
