@@ -11,6 +11,8 @@ permalink: /
 
 <img src="/assets/nicola.jpg"/>
 
+Test
+
 This Digital Garden contains notes on a range of topics including:
 
 - [[writing]]
