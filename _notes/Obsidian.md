@@ -15,4 +15,4 @@ Writing became a possibility and it all started with Obsidian.
 
 *Navigate using the graph below and the notes list in the right hand column.*
 
-![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)
+![](https://source.unsplash.com/m_HRfLhgABo/1900x1200)

@@ -4,8 +4,6 @@ title: about me
 tags: about
 ---
 
-![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)
-
 I'm Nicola. A Writer, Photographer, Podcaster, Geek.
 
 I live in a small village in the Peak Park area of Derbyshire with my husband, [Chris](https://theblindwoodturner.co.uk/), and his Guide Dog, Bamber.
@@ -13,6 +11,8 @@ I live in a small village in the Peak Park area of Derbyshire with my husband, [
 I’m an INFP. I’m unconventional, quirky, an introvert and live outside the circle. That might make me eccentric!
 
 I have an eclectic range of interests. 
+
+![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)
 
 ### Writing
 

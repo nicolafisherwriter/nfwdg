@@ -18,4 +18,4 @@ tags: digitalgarden
 
 *Navigate using the graph below and the notes list in the right hand column.*
 
-![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)
+![](https://source.unsplash.com/mnuxxOaFO1s/1900x1200)
