@@ -9,7 +9,7 @@ permalink: /
 
 This Digital Garden contains notes on a range of topics including:
 
-- [[books]]
+- [[reading]]
 - [[gardening]]
 - [[learning]]
 - [[obsidian]]
