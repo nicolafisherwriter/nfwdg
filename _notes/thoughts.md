@@ -9,4 +9,4 @@ A series of notes that include thoughts and ideas that occur to me. Some may not
 
 *Navigate using the graph below and the notes list in the right hand column.*
 
-![](https://source.unsplash.com/huyzIf8_Chs/1900x1200)
+![](https://source.unsplash.com/sCKtNbIKOuQ/1900x1200)
