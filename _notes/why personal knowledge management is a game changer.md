@@ -1,12 +1,7 @@
 ---
-Date: 8th September, 2021
-
-Link: pkm
-
-Tags: writing, obsidian
+title: why personal knowledge management is a game changer
+tags: writing
 ---
-
-# why personal knowledge management is a game changer
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Discovering Obsidian <a href="https://twitter.com/obsdmd?ref_src=twsrc%5Etfw">@obsdmd</a> earlier this year, and going down the personal knowledge management rabbit hole has been a game changer. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/UxMRphqrOv">pic.twitter.com/UxMRphqrOv</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1435581949893095431?ref_src=twsrc%5Etfw">September 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -25,3 +20,5 @@ This structure gives me a weekly plan, accountability and the momentum to keep o
 The whole PKM journey has reignited my love of discovery. Not only am I writing more, but I'm reading more widely and leap frogging from idea to idea. It has been a game changer in so many ways.
 
 It's introduced me to a whole new world of apps, to people I might otherwise never have spoken to, and brought me an incredible sense of fulfilment. It's become a way of life.
+
+[[writing]]

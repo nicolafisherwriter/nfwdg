@@ -1,12 +1,7 @@
 ---
-Date: 11th October, 2021
-
-Link: challenge
-
-Tags: writing
+title: why living at a gentler pace can sometimes be a challenge
+tags: writing
 ---
-
-# why living at a gentler pace can sometimes be a challenge
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are programmed for busy-ness. We need to re-programme ourselves for a gentle life. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/M2hbex7lE8">pic.twitter.com/M2hbex7lE8</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1447646025909477388?ref_src=twsrc%5Etfw">October 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -33,3 +28,5 @@ When the day finally comes, read your lists and plan how you will make them a re
 It's easy to be swayed by responsibilities and other demands. Every day we have to give ourselves permission to carve out time to live our gentle life.
 
 We are programmed for busy-ness. We need to re-programme ourselves for a gentle life.
+
+[[writing]]

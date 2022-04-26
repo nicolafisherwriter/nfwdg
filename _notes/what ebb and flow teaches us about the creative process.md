@@ -1,12 +1,7 @@
 ---
-Date: 14th September, 2021
-
-Link: ebb
-
-Tags: writing
+title: what ebb and flow teaches us about the creative process 
+tags: writing
 ---
-
-# what ebb and flow teaches us about the creative process 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I find my lost mojo in the notes I write on the pages of my journals. Playing dot to dot with my ink pen. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/HG5GRvnVXU">pic.twitter.com/HG5GRvnVXU</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1437738865142509576?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,3 +24,5 @@ I find my lost mojo in the notes I write on the pages of my journals. Playing do
 My trust of the process is still imperfect. Like a flower, we experience the ebb and flow of growth.
 
 Nothing blooms until you first sow the seeds. Then you wait. And wait some more. It may appear that nothing is happening but then you spot the new shoots growing.
+
+[[writing]]

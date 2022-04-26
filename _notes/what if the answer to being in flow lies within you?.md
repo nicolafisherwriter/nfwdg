@@ -1,12 +1,7 @@
 ---
-Date: 17th September, 2021
-
-Link: answer
-
-Tags: writing
+title: what if the answer to being in flow lies within you?
+tags: writing
 ---
-
-# what if the answer to being in flow lies within you?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Essence is our unique blueprint, a combination of everything we love and who we are. We find it by looking within. We find flow when we align with who we truly are. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/gKJ8whSzLn">pic.twitter.com/gKJ8whSzLn</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1438746099448229888?ref_src=twsrc%5Etfw">September 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,3 +18,5 @@ Some years ago I began exploring an idea that I called essence. Our unique bluep
 My essence is unconventional and eccentric. It takes me down the road less travelled and lives along the edges.
 
 When we’re in alignment we tap into who we are meant to be, our best selves. We are touching the source of our being.
+
+[[writing]]

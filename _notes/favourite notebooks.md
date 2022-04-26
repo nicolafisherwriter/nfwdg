@@ -3,4 +3,4 @@ title: favourite notebooks
 tags: writing
 ---
 
-Read more of my [[thoughts]].
+[[thoughts]].

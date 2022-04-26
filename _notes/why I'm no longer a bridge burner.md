@@ -1,12 +1,7 @@
 ---
-Date: 9th September, 2021
-
-Link: burner
-
-Tags: writing
+title: why I'm no longer a bridge burner
+tags: writing
 ---
-
-# why I'm no longer a bridge burner
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bridge burning used to be my MO. Now I’m using that fire in a different way. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/uB0b34tF9t">pic.twitter.com/uB0b34tF9t</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1435976252955971585?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,3 +18,5 @@ The urge to put a fire under everything has been strong again. But, I’m rethin
 The bridges that I’ve burned come back to haunt me, to nudge me and tell me that my work is not yet done. There are still new avenues to explore.
 
 So, I’m concentrating on what fires me up, what sets me alight, and use that to light my way instead.
+
+[[writing]]

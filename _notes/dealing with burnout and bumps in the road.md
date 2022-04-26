@@ -64,3 +64,5 @@ It’s simple really but when you’re in the midst of it all, you just keep goi
 > Grandma:I always wanted to go again. You know, it was just so interesting to me that a ride could make me so frightened, so scared, so sick, so excited, and so thrilled all together! Some didn’t like it. They went on the merry-go-round. That just goes around. Nothing. I like the roller coaster. You get more out of it.
 
 > From the film Parenthood.
+
+[[writing]]

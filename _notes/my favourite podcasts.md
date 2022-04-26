@@ -1,6 +1,6 @@
 ---
 title: my favourite podcasts
-tags: writing
+tags: thoughts
 ---
 
-Read more of my [[thoughts]].
+[[thoughts]].

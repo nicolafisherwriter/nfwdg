@@ -67,5 +67,4 @@ Repository
 
 As well as being my writing hub, Obsidian is a repository for key information, documents, and work-related content. It can be a task manager and a to do list. You can keep daily notes, and use dataview to track specific data.
 
-
-Read more articles about [[tech and tools]].
+[[tech and tools]].

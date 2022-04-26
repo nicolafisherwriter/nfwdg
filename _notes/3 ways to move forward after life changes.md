@@ -44,3 +44,5 @@ Each time I experienced an urge to purge my house. I decluttered so much it was 
 It's in creative pursuits that we glimpse the light at the end of the tunnel.
 
 Creativity helps us reconnect. We disengage from the thoughts spinning around our head. We find flow and, most often, insights.
+
+[[agentlerpace]]

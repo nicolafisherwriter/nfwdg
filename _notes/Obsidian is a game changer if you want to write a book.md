@@ -76,3 +76,5 @@ Even though I’ll be publishing a new book once a quarter, using Obsidian will 
 ---
 
 I’ve written eBooks in the past. I’ve used Word, Google Docs, Scrivener but none of them have made it as easy as Obsidian. Being able to work with small blocks of content is less overwhelming. Like doing a jigsaw, you know that, once you have all the pieces, you can put it all together.
+
+[[writing]]

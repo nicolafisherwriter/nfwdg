@@ -3,7 +3,6 @@ title: why Obsidian is keeping me awake at night
 tags: techandtools
 ---
 
-# why Obsidian is keeping me awake at night
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I know I&#39;m not alone when I say I&#39;m a bit obsessed with Obsidian! <a href="https://twitter.com/obsdmd?ref_src=twsrc%5Etfw">@obsdmd</a> It has transformed my life in unimaginable ways. So much so that it sparks ideas in the wee small hours! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/TPH1pBPTED">pic.twitter.com/TPH1pBPTED</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1437086828914425862?ref_src=twsrc%5Etfw">September 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -16,3 +15,5 @@ Night after night, I would lie in bed, trying to get to sleep, when one idea aft
 Obsidian was all I thought - and talked - about. Every day I would tell my husband about the latest discovery I'd made - a new plugin, a different approach, another way to extend my experience. He listened even though he couldn't make head nor tail of what I was telling him.
 
 Finally, normal sleep returned. Until recently, when my reading inspired a review of my workflow and led me to create a more systemised approach to content creation. Another revolution has taken place, and one that's waking me up again in the middle of the night!
+
+[[Obsidian]]

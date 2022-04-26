@@ -1,9 +1,7 @@
 ---
 title: why I am using Craft instead of Obsidian
-tags: techandtools
+tags: techandtools, obsidian
 ---
-
-# why I'm using Craft instead of Obsidian
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do I really think of Craft? And is it a contender as a replacement for Obsidian? <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/QzMCGbP24A">pic.twitter.com/QzMCGbP24A</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1439126760428294150?ref_src=twsrc%5Etfw">September 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -32,3 +30,5 @@ I'm not abandoning Obsidian! Craft and Obsidian are apples and oranges. But, for
 At this stage, using Craft is an experiment. The free version only allows you to create 1000 blocks. When I run out of blocks (fairly soon as I'm currently at 519), it will be easy to migrate my notes into Obsidian and re-point my domain name.
 
 Craft is currently Apple only and the subscription version costs £44.99/year.
+
+[[Obsidian]]

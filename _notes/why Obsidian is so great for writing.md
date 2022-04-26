@@ -3,8 +3,6 @@ title: why Obsidian is so great for writing
 tags: writing, techandtools
 ---
 
-# why Obsidian is so great for writing
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Obsidian lit a fire beneath me from day one. It&#39;s not gone out. It&#39;s made writing easier and also a joy! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/fJdVGpwjSj">pic.twitter.com/fJdVGpwjSj</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1455187960358449163?ref_src=twsrc%5Etfw">November 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you want to write more, start using a note taking app. It will transform your practice.
@@ -42,3 +40,5 @@ Since Obsidian:
 • I'm writing in public
 
 Obsidian lit a fire beneath me from day one. It's not gone out. It's made writing easier but, best of all, I'm publishing more. And that's the goal.
+
+[[Obsidian]]
