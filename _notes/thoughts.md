@@ -8,3 +8,5 @@ A series of notes that include thoughts and ideas that occur to me. Some may not
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*
+
+![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)

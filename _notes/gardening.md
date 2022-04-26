@@ -24,3 +24,5 @@ This is the first garden I've created from scratch. It's completely of my making
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*
+
+![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)

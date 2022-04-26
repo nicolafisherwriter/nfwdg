@@ -12,3 +12,5 @@ In the meantime, I share what I've learned about a good plan, and the tools and 
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*
+
+![](https://source.unsplash.com/qP6rQzn6OoI/1900x1200)
