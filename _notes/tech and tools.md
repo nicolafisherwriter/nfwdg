@@ -3,4 +3,12 @@ title: tech and tools
 tags: techandtools
 ---
 
-Use the graph below or the list in the right hand column to read my articles about tech and tools.
+I'm a geek. Tech excites me. Especially in the context of making life easier, productive or automated.
+
+I enjoy beta testing something new, looking for possible uses, thinking laterally about how an app could be helpful. Mostly, I love mastering something I've not used before.
+
+I write about my favourite tech and tools. Often [[Obsidian]]. I talk about how I use apps and share what I've learned to make tech easy for others.
+
+---
+
+*Navigate using the graph below and the notes list in the right hand column.*
