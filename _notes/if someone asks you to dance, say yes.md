@@ -1,14 +1,7 @@
 ---
-Date: 11th September, 2022
-
-Link: dance
-
-Tags: writing
+title: if someone asks you to dance, say yes
+tags: writing
 ---
-
-# if someone asks you to dance, say yes
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think of that missed opportunity often, especially when I might hesitate now to seize the day. And remind myself to just do it, have that moment, make that memory. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/TDJVLXiu6K">pic.twitter.com/TDJVLXiu6K</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1436648202149810177?ref_src=twsrc%5Etfw">September 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Back in my 20s I spent some time working in Paris for the French electricity company, EdF, that we represented in the UK.
 

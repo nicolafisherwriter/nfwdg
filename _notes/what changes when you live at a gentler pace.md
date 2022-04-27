@@ -1,14 +1,7 @@
 ---
-Date: 13th October, 2021
-
-Link: pace
-
-Tags: writing
+title: what changes when you live at a gentler pace
+tags: writing
 ---
-
-# what changes when you live at a gentler pace
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What sort of life do you dream of? It&#39;s never too late to make it a reality. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/MgTuGpzc5Q">pic.twitter.com/MgTuGpzc5Q</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1448246550904328195?ref_src=twsrc%5Etfw">October 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Looking back over my career, there are very few times when I truly made a difference. Much of the work I did has no value now. It's all been forgotten. I wish I'd understood earlier that there was a different way.
 

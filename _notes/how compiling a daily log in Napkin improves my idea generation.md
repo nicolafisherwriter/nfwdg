@@ -1,12 +1,7 @@
 ---
-Date: 13th February, 2022
-
-Link: world
-
-Tags: writing
+title: how compiling a daily log in Napkin improves my idea generation
+tags: writing
 ---
-
-# how compiling a daily log in Napkin improves my idea generation
 
 Sometimes two paths collide to create a perfect storm. This happened for me recently.
 

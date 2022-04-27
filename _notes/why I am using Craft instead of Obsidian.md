@@ -3,8 +3,6 @@ title: why I am using Craft instead of Obsidian
 tags: techandtools, obsidian
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do I really think of Craft? And is it a contender as a replacement for Obsidian? <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/QzMCGbP24A">pic.twitter.com/QzMCGbP24A</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1439126760428294150?ref_src=twsrc%5Etfw">September 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Yes, I am a magpie, drawn in by the new and shiny thing. Lately, Craft has been mentioned several times in recent posts about PKM so I thought I'd investigate.
 
 ## It's very WYSIWYG

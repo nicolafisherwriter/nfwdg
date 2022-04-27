@@ -1,12 +1,7 @@
 ---
-Date: 10th January, 2022
-
-Link: state
-
-Tags: writing
+title: state of the union 2021
+tags: writing
 ---
-
-# state of the union 2021
 
 [Paul Jarvis](https://usefathom.com/pjrvs) used to publish his State of the Union at the end of every year. (I first came across Paul during his incarnation as the web developer for a variety of A list bloggers. Then I read his blogs, avidly, and received his newsletters every Sunday until he stopped writing them. I have his books and the audio from a 1:1 call we once had. Now he’s a co-founder of Fathom).
 

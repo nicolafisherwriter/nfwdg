@@ -1,14 +1,7 @@
 ---
-Date: 8th November, 2021
-
-Link: voyage
-
-Tags: writing
+title: what do you do when the voyage is over? change course!
+tags: writing
 ---
-
-# what do you do when the voyage is over? change course!
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My voyage of discovery continues. This next leg of the journey is all about embracing a gentler pace. Will you join me? <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/IB9bQOqxAr">pic.twitter.com/IB9bQOqxAr</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1457813730088169475?ref_src=twsrc%5Etfw">November 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's Day 31 and, even though the ship has sailed, my urge to write continues!
 

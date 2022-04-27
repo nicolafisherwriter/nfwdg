@@ -1,12 +1,7 @@
 ---
-Date: 10th November, 2020
-
-Link: derbyshire
-
-Tags: writing, derbyshire
+title: how the love affair with Derbyshire began
+tags: writing
 ---
-
-# how the love affair with Derbyshire began
 
 My love affair with Derbyshire began one early September weekend. Already Autumnal, I drove from Manchester towards Buxton with no idea that this visit would change my life. A work colleague had booked a stay in a converted barn in a tiny hamlet called Wormhill. She invited me over for the day.
 

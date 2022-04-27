@@ -1,14 +1,7 @@
 ---
-Date: 10th October, 2021
-
-Link: job
-
-Tags: writing
+title: in 2019 I quit my day job and have never looked back
+tags: writing
 ---
-
-# in 2019 I quit my day job and have never looked back
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I dreamed of the life I now live for a long time. I was 55 when I finally made the leap. It was a great decision! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/ncdKBCKU09">pic.twitter.com/ncdKBCKU09</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1447094552444157955?ref_src=twsrc%5Etfw">October 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 _In April 2019, I quit my day job. I wanted to embrace life at a gentler pace. It didn’t quite go to plan!_
 

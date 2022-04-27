@@ -3,8 +3,6 @@ title: 2021 - my year of transformation and lots more writing!
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s Day 1 of <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> and I’m excited to get started. Here’s a quick summary of what the next 30 days holds. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/HM6qPzHSOL">pic.twitter.com/HM6qPzHSOL</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1446918298243829760?ref_src=twsrc%5Etfw">October 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 2021 has been a year of writing, note taking and PKM (Personal Knowledge Management).
 
 Driven by my discovery of Obsidian in April, I’ve leapt from one stepping stone to another. The latest of these is Ship 30 for 30.

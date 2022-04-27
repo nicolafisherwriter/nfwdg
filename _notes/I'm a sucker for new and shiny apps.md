@@ -1,14 +1,7 @@
 ---
-Date: 24th September, 2022
-
-Link: world
-
-Tags: writing
+title: I'm a sucker for new and shiny apps
+tags: writing
 ---
-
-# I'm a sucker for new and shiny apps
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m a geek, a perfectionist and a procrastinator. I am a sucker for productivity apps. Yet they often don&#39;t work for me. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/6uBQD0EVC4">pic.twitter.com/6uBQD0EVC4</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1441389468640956423?ref_src=twsrc%5Etfw">September 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I’m glad I’m not alone in my quest for the perfect productivity app. From what I read, our numbers are legion.
 

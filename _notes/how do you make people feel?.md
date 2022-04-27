@@ -1,14 +1,7 @@
 ---
-Date: 5th September, 2021
-
-Link: mike
-
-Tags: writing
+title: how do you make people feel?
+tags: writing
 ---
-
-# how do you make people feel?
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Making a mark doesn’t have to be grand gestures but basic human connection with others. It’s the simple things that make the difference and touch our heart. <a href="https://t.co/Lc9ALaI2M2">pic.twitter.com/Lc9ALaI2M2</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1434543387953311750?ref_src=twsrc%5Etfw">September 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I used to park regularly in a car park at Castlefield in Manchester. I'd arrive early, around 06:30, just as Mike, the attendant, was opening up. We would chat about something or other. He was always very nice to me, and one day he waived my parking fee, just because.
 
@@ -23,3 +16,5 @@ Making a mark doesn’t have to be grand gestures but basic human connection wit
 On those dark, damp Winter mornings he would often say, somewhat ironically, 'another day in Paradise'. I like to think he has finally found his Paradise.
 
 There’s a plaque now in the car park. Mike’s Place. In memory of Mike Robinson. His legacy lives on.
+
+<img src="/assets/mikesplace.jpeg"/>

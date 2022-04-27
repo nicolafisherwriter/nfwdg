@@ -3,8 +3,6 @@ title: why peering into hedgerows connects me with the seasons
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve photographed hedgerows for years. The tiny details, the macro. It&#39;s there that I first see the change in the seasons. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/ghRepoiWMY">pic.twitter.com/ghRepoiWMY</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1454553589045727236?ref_src=twsrc%5Etfw">October 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 For years I’ve scrutinised hedgerows, looking for subtle details heralding the advent of a new season. Since our move to Derbyshire these tiny changes have become even more apparent.
 
 I’ve watched as, first, snowdrops appeared, then bluebells and dandelions. One succeeded another, each new flower having its moment in the spotlight. As the hedgerow expanded the flowers moved from ground cover upwards through these ancient boundaries.

@@ -1,14 +1,7 @@
 ---
-Date: 24th October, 2021
-
-Link: bill
-
-Tags: writing
+title: how I met Bill Murray in Paris
+tags: writing
 ---
-
-# how I met Bill Murray in Paris
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I lived and studied in Paris in the 80s. The same year The Razor&#39;s Edge came out and Bill Murray took some time off filming to stay in Paris. That&#39;s where I bumped into him. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/fdQdfuZc6d">pic.twitter.com/fdQdfuZc6d</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1452363808471662615?ref_src=twsrc%5Etfw">October 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In 1984 I lived in Paris, studying at the Sorbonne as part of my French degree.
 

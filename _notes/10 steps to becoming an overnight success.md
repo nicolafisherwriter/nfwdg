@@ -3,8 +3,6 @@ title: 10 steps to becoming an overnight success
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s easy to look from the outside in, as we all do, and think that overnight success is a real thing. This is what we did to grow the <a href="https://twitter.com/blindwoodturner?ref_src=twsrc%5Etfw">@blindwoodturner</a> business. It&#39;s taken 6 years so far! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/W3XSHfW6Jm">pic.twitter.com/W3XSHfW6Jm</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1436355616331735041?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 My husband is the UK's only completely blind, professional, accredited woodturner.
 
 We've followed a plan to grow his brand. This is how we did it.

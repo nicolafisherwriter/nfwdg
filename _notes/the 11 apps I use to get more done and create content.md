@@ -1,14 +1,7 @@
 ---
-Date: 29th October, 2021
-
-Link: apps
-
-Tags: writing
+title: the 11 apps I use to get more done and create content
+tags: writing
 ---
-
-# the 11 apps I use to get more done and create content
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A round up of all my favourite apps and what I&#39;m using on a daily basis. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://twitter.com/obsdmd?ref_src=twsrc%5Etfw">@obsdmd</a> <a href="https://twitter.com/NotionHQ?ref_src=twsrc%5Etfw">@NotionHQ</a> <a href="https://twitter.com/Medium?ref_src=twsrc%5Etfw">@Medium</a> <a href="https://twitter.com/getmatterapp?ref_src=twsrc%5Etfw">@getmatterapp</a> <a href="https://twitter.com/readwiseio?ref_src=twsrc%5Etfw">@readwiseio</a> <a href="https://twitter.com/napkin_one?ref_src=twsrc%5Etfw">@napkin_one</a> <a href="https://twitter.com/otter_ai?ref_src=twsrc%5Etfw">@otter_ai</a> <a href="https://twitter.com/voxer?ref_src=twsrc%5Etfw">@voxer</a> <a href="https://twitter.com/racket100?ref_src=twsrc%5Etfw">@racket100</a> <a href="https://twitter.com/Twitter?ref_src=twsrc%5Etfw">@twitter</a> <a href="https://twitter.com/DynalistHQ?ref_src=twsrc%5Etfw">@DynalistHQ</a> <a href="https://t.co/OaPSNHaXwk">pic.twitter.com/OaPSNHaXwk</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1454042222870024194?ref_src=twsrc%5Etfw">October 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I'm a bit of a magpie with new and shiny things! I love new tech. These days I try to be practical too.
 

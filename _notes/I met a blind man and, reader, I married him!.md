@@ -1,14 +1,7 @@
 ---
-Date: 26th October, 2021
-
-Link: married
-
-Tags: writing
+title: I met a blind man and, reader, I married him!
+tags: writing
 ---
-
-# I met a blind man and, reader, I married him!
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have an irreverent sense of humour. Now my husband, Chris&#39; politically incorrect approach to his blindness in the early days laid the foundation for our relationship. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/t6YxNhISf0">pic.twitter.com/t6YxNhISf0</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1453106974694981635?ref_src=twsrc%5Etfw">October 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My husband has never seen me and never will.
 

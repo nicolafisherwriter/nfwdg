@@ -1,12 +1,7 @@
 ---
-Date: 29th December, 2020
-
-Link: endings
-
-Tags: writing
+title: endings, how we experience them and the choices we make
+tags: writing
 ---
-
-# endings, how we experience them and the choices we make
 
 **Do you jump or wait for the kick in the seat of your pants?**
 

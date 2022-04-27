@@ -1,14 +1,7 @@
 ---
-Date: 28th September, 2022
-
-Link: sight
-
-Tags: writing
+title: if you lost your sight, would you want it back?
+tags: writing
 ---
-
-# if you lost your sight, would you want it back?
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Completely blind for the past 13 years, my husband doesn&#39;t want his sight back. To most people this is unfathomable. What is life without seeing? <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/Ti3yqAOsxu">pic.twitter.com/Ti3yqAOsxu</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1442867760317419525?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My husband lives in the dark. It pulls at my heartstrings the most on nights when he's sitting in a room with no lights on. 
 

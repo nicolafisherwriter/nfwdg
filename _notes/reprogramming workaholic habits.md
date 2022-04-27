@@ -1,14 +1,7 @@
 ---
-Date: 16th September, 2021
-
-Link: habits
-
-Tags: writing
+title: reprogramming workaholic habits
+tags: writing
 ---
-
-# reprogramming workaholic habits
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Living at a gentler pace, I&#39;ve found, is not as easy as it sounds. I revert to old (bad) habits on a regular basis. The major cause of the problem: me! <a href="https://t.co/hd6CC25V2L">pic.twitter.com/hd6CC25V2L</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1438439125355466753?ref_src=twsrc%5Etfw">September 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I didn’t post any writing yesterday. I was tired.
 

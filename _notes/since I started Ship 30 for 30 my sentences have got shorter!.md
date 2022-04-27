@@ -1,14 +1,7 @@
 ---
-Date: 7th November, 2021
-
-Link: sentences
-
-Tags: writing
+title: since I started Ship 30 for 30 my sentences have got shorter!
+tags: writing
 ---
-
-# since I started Ship 30 for 30 my sentences have got shorter!
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 30! I&#39;m thrilled to have shipped every day. Ship 30 for 30 has been an amazing voyage. Big thanks to everyone I&#39;ve met throughout this experience. Huge thank you to <a href="https://twitter.com/dickiebush?ref_src=twsrc%5Etfw">@dickiebush</a> <a href="https://twitter.com/Nicolascole77?ref_src=twsrc%5Etfw">@Nicolascole77</a> for creating such an incredible online course. It truly has been epic. <a href="https://t.co/zaVwEYm6dU">pic.twitter.com/zaVwEYm6dU</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1457471096333144075?ref_src=twsrc%5Etfw">November 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I've just had a look at the first essay I wrote for Ship 30 for 30. What really stands out - the _long_ sentences! Over the last 30 days my writing has evolved. Shorter. Punchier. I had no idea I was doing that. But I take it as a positive.
 

@@ -1,14 +1,7 @@
 ---
-Date: 16th October, 2021
-
-Link: people
-
-Tags: writing
+title: the world needs more people living at a gentler pace
+tags: writing
 ---
-
-# the world needs more people living at a gentler pace
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you feel there should be more to life than &#39;this&#39;? So, did I. For many years, I was on a quest to find a different way. Finally, I found it walking in my local park. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/1ODkFsi7NV">pic.twitter.com/1ODkFsi7NV</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1449414766175395845?ref_src=twsrc%5Etfw">October 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > Don’t ask yourself what the world needs; ask yourself what makes you come alive. And then go and do that. Because what the world needs is people who have come alive ~ Howard Thurman
 

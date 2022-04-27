@@ -3,8 +3,6 @@ title: do not put the blind man in the corner
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">People avoid talking to Chris, my blind husband, because they&#39;re afraid of making a faux pas. You don&#39;t have to walk on eggshells. Just be you. More on the realities of being blind. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/2FBYnBb6kl">pic.twitter.com/2FBYnBb6kl</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1453832938420908034?ref_src=twsrc%5Etfw">October 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 How do you talk to a blind man or woman? The same way you talk to anyone.
 
 Chris and I went to a networking event. We had Bamber with us, of course. The room was packed so we stood near the door. It was impossible to circulate. No-one came over. I can only imagine the reasons why.

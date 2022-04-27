@@ -1,14 +1,7 @@
 ---
-Date: 27th October, 2021
-
-Link: reality
-
-Tags: writing
+title: the reality of being married to a blind man
+tags: writing
 ---
-
-# the reality of being married to a blind man
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My blind husband is a Jedi hearing sounds long before I do. He has superpowers - picking up on everything! He even knows when I&#39;m wearing eye shadow - because he can smell it! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/lP1IqSdOPq">pic.twitter.com/lP1IqSdOPq</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1453466637156421633?ref_src=twsrc%5Etfw">October 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 One thing guaranteed to pull at my heartstrings is finding my husband sitting in a room in complete darkness.
 

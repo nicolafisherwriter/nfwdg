@@ -1,12 +1,7 @@
 ---
-Date: 10th January, 2022
-
-Link: typewriter
-
-Tags: writing
+title: I bought a typewriter and use it every day
+tags: writing
 ---
-
-# I bought a typewriter and use it every day
 
 Sometime in December, we watched a documentary film called [California Typewriter](https://californiatypewritermovie.com/). About a shop of the same name that serviced and sold typewriters, it also featured well known typewriter users like Tom Hanks and Sam Shepard. It was, without a doubt, the best thing I watched in 2021.
 

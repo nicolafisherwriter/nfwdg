@@ -1,14 +1,7 @@
 ---
-Date: 31st October, 2021
-
-Link: dabbling
-
-Tags: writing
+title: the time has come to stop dabbling and just write
+tags: writing
 ---
-
-# the time has come to stop dabbling and just write
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve dabbled with writing for decades. There comes a point when you have to put your money where your mouth is and just get on with it! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/s3VMAo0dEU">pic.twitter.com/s3VMAo0dEU</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1454938720122155009?ref_src=twsrc%5Etfw">October 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 When I was 21, living in Paris and absorbing the writing culture by osmosis, I dabbled with the idea of being a writer.
 

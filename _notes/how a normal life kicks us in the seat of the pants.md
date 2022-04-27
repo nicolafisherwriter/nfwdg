@@ -1,14 +1,7 @@
 ---
-Date: 11th November, 2021
-
-Link: seat
-
-Tags: writing
+title: how a normal life kicks us in the seat of the pants
+tags: writing
 ---
-
-# how a normal life kicks us in the seat of the pants
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Change opens doors, leads to new beginnings and transforms us, and our lives, in ways we might never have imagined. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/dbRPtmAj23">pic.twitter.com/dbRPtmAj23</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1458925964654788619?ref_src=twsrc%5Etfw">November 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We always hope, after a big upheaval, change or shift, that life will revert back to normal. It becomes our goal, something that will signify that we've made it through and come out the other end.
 

@@ -3,8 +3,6 @@ title: 3 easy steps to start living at a gentler pace
 tags: agentlerpace
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you begin to embrace the gentle life, doors will start to open.<br>The steps to living at a gentler pace are simple. Often we make the implementation difficult. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/6eJAK2LEhO">pic.twitter.com/6eJAK2LEhO</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1447997032904466435?ref_src=twsrc%5Etfw">October 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 I prioritised work for many years. But I missed out on other aspects of life. 
 
 I would often burn out. I didn't want to wake up one day to find there was no time left to follow my bliss.

@@ -3,8 +3,6 @@ title: don't fear endings, embrace them
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are programmed to fear change but we can make it work for us. When we understand the role that change plays in our lives, we can begin to embrace it. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/JIXcmS369M">pic.twitter.com/JIXcmS369M</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1450187076360708111?ref_src=twsrc%5Etfw">October 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 In my twenties, I dreaded endings and change. I preferred the status quo.
 
 A career in the digital world, before the internet bubble burst, taught me to go with the flow. Back then, jobs often didn't last long. I moved around a lot and, as I discovered, always to something better.

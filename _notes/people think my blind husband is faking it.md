@@ -1,12 +1,7 @@
 ---
-Date: 19th January, 2022
-
-Link: faking
-
-Tags: writing
+title: people think my blind husband is faking it
+tags: writing
 ---
-
-# people think my blind husband is faking it
 
 **And lying when he says he doesn’t want his eyesight back!**
 

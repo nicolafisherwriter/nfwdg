@@ -1,12 +1,7 @@
 ---
-Date: 10th November, 2021
-
-Link: vision
-
-Tags: writing
+title: my naive vision
+tags: writing
 ---
-
-# my naive vision
 
 > We have to escape the life of commodity and replace it with the life of community. What’s going to be required is a conversion of consciousness. I call it plant consciousness ~ Richard Powers
 

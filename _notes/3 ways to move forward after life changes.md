@@ -3,8 +3,6 @@ title: 3 ways to move forward after life changes
 tags: agentlerpace
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After an Ending we most often find ourselves in the Void. It&#39;s the bridge between what was and what will be. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/yYxNDhUfKP">pic.twitter.com/yYxNDhUfKP</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1450550879149510663?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Following life changes, we naturally want to return to our default setting.
 
 Whatever is _normal _ for us.

@@ -1,14 +1,7 @@
 ---
-Date: 24th September, 2021
-
-Link: gentle
-
-Tags: writing
+title: how to live a gentle life when you want to do it all
+tags: writing
 ---
-
-# how to live a gentle life when you want to do it all
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is it possible to do it all and still embrace life at a gentler pace? Perhaps we have to compromise somewhere along the way. I&#39;m looking for answers. Watch this space! <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/YFrShp2jCR">pic.twitter.com/YFrShp2jCR</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1441330919479001088?ref_src=twsrc%5Etfw">September 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I’ve been seeking out a gentler pace since May 2019 when I first declared this intention on my blog. Some time later, my venture of the same name was born.
 

@@ -1,12 +1,7 @@
 ---
-Date: 10th February, 2022
-
-Link: word
-
-Tags: writing
+title: how and why I chose my word of the year for 2021
+tags: writing
 ---
-
-# how and why I chose my word of the year for 2021
 
 Inevitably, early on in the year I start to think about my plans. I’ve felt it more than ever this time around, I think, because of the _in between houses_ state in which we found ourselves. A form of limbo, a void.
 

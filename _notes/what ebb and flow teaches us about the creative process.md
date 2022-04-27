@@ -3,8 +3,6 @@ title: what ebb and flow teaches us about the creative process
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I find my lost mojo in the notes I write on the pages of my journals. Playing dot to dot with my ink pen. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/HG5GRvnVXU">pic.twitter.com/HG5GRvnVXU</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1437738865142509576?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 My philosophy of life has always been all or nothing. It can be a double-edged sword.
 
 It leads me to throw myself, heart and soul, into whatever I'm doing. I burn the candle at both ends. Before I know it, my flow has ebbed away.

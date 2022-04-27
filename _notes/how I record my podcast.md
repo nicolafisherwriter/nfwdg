@@ -1,12 +1,7 @@
 ---
-Date: 10th March, 2021
-
-Link: podcast
-
-Tags: writing
+title: how I record my podcast
+tags: writing
 ---
-
-# how I record my podcast
 
 I really enjoy podcasting. I enjoyed recording my daily [Elevenses](https://anchor.fm/elevenses), a podcast I began following the onset of the pandemic, and which started out as me reflecting on whatever was in my head at the time, but then evolved into more philosophical episodes. This was partly in response to what was happening in our world but also a result of me gaining greater confidence through the practice of speaking out loud.
 

@@ -3,8 +3,6 @@ title: a credo - 10 things I believe about life
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What I&#39;ve learned about life. 10 things I believe. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://twitter.com/hashtag/ship30for30?src=hash&amp;ref_src=twsrc%5Etfw">#ship30for30</a> <a href="https://t.co/kDxK9xbaEa">pic.twitter.com/kDxK9xbaEa</a></p>&mdash; Nicola Fisher | A Gentle Life 🚢 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1457096987426402310?ref_src=twsrc%5Etfw">November 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 1. Nothing happens by chance. Our journey through life has definition, and we each have a role to play in our own lives and the lives of others.
 
 2. Life is much more than what we do for a living.

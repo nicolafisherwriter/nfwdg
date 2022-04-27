@@ -1,14 +1,7 @@
 ---
-Date: 13th September, 2021
-
-Link: change
-
-Tags: writing
+title: how living a gentle life could change the world
+tags: writing
 ---
-
-# how living a gentle life could change the world
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When we live a gentle life we take a step back and slow down, which leads us to reconnect with the world around us. And to each other. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/jUmM85tVge">pic.twitter.com/jUmM85tVge</a></p>&mdash; Nicola Fisher | A Gentle Life (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1437323125734182913?ref_src=twsrc%5Etfw">September 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Some time ago I came across an article about how trees communicate with each other, how there exists a tree network called the Wood Wide Web!
 

@@ -3,8 +3,6 @@ title: why personal knowledge management is a game changer
 tags: writing
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Discovering Obsidian <a href="https://twitter.com/obsdmd?ref_src=twsrc%5Etfw">@obsdmd</a> earlier this year, and going down the personal knowledge management rabbit hole has been a game changer. <a href="https://twitter.com/hashtag/tweet100?src=hash&amp;ref_src=twsrc%5Etfw">#tweet100</a> <a href="https://t.co/UxMRphqrOv">pic.twitter.com/UxMRphqrOv</a></p>&mdash; 👩🏻‍🦳🥾🌳🐄🌻 (@liveagentlelife) <a href="https://twitter.com/liveagentlelife/status/1435581949893095431?ref_src=twsrc%5Etfw">September 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Ever since I first came across Obsidian earlier this year, my life has changed.
 
 I quickly became obsessed with Obsidian, with its notetaking ability, and how I could transform a vanilla app into something bespoke. The extraordinary community around Obsidian introduced me to a range of practices, processes and plugins which enhanced my experience.
