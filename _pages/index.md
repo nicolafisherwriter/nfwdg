@@ -7,18 +7,14 @@ permalink: /
 
 ## Welcome! 🌱
 
-This Digital Garden contains notes on a range of topics including:
-
-- [[reading]]
-- [[gardening]]
-- [[learning]]
-- [[obsidian]]
-- [[planning]]
-- [[tech and tools]]
-- [[thoughts]]
-- [[writing]]
-
-To begin, take the [[tour]].
+-   Find out more [about Nicola](app://obsidian.md/about%20Nicola)
+-   Check out the [reading](app://obsidian.md/reading) I'm reading
+-   And what I'm [learning](app://obsidian.md/learning) right now
+-   Browse some of my favourite [quotes](app://obsidian.md/quotes)
+-   Read my latest [writing](app://obsidian.md/writing) and [thoughts](app://obsidian.md/thoughts)
+-   Learn about my [planning](app://obsidian.md/planning) process
+-   Join me as I share my love of [gardening](app://obsidian.md/gardening)
+-   Experience [tech and tools](app://obsidian.md/tech%20and%20tools) made easy.
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
