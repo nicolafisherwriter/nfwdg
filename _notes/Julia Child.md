@@ -13,3 +13,6 @@ I started reading the book and haven't been able to put it down. While Julia's l
 
 The book falls into the category of unputdownable. I find myself immersed in her life and memories of my own time there.
 
+Although I'm not passionate about cooking, I enjoy Julia's journey as a chef. Her descriptions of memorable meals whet my appetite. 
+
+Somehow, we are there with her, in Paris, in France and even in England. This book is part autobiography, part personal diary, and why I'm finding it such compelling [[reading]].
