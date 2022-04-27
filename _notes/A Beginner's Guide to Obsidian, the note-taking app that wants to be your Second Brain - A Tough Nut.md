@@ -1,7 +1,9 @@
 ---
-title: A Beginners Guide to Obsidian
-tags: writing
+title: A Beginners Guide to Obsidian by A Tough Nut
+tags: obsidian
 ---
+
+Source: https://atoughnut.com/a-beginners-guide-to-obsidian/
 
 I was introduced to Obsidian (a new-released note-taking software) by a friend recently. Obsidian immediately stood out for me from other note-taking apps such as Evernote and Notion because it uses Markdown format and integrates Backlinking, all this while storing your files on a local folder.
 
