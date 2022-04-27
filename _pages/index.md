@@ -8,7 +8,7 @@ permalink: /
 ## Welcome! 🌱
 
 -   Find out more [about Nicola](app://obsidian.md/about%20Nicola)
--   Check out the [reading](app://obsidian.md/reading) I'm reading
+-   Check out what books I'm [reading](app://obsidian.md/reading)
 -   And what I'm [learning](app://obsidian.md/learning) right now
 -   Browse some of my favourite [quotes](app://obsidian.md/quotes)
 -   Read my latest [writing](app://obsidian.md/writing) and [thoughts](app://obsidian.md/thoughts)
