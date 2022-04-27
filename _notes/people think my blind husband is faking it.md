@@ -71,5 +71,3 @@ Chris is doing things now that he would, most likely, never have done, sighted. 
 His life is taking him down a completely different path.
 
 If you ask, he will tell you that he believes being a blind woodturner is who he was always meant to be.
-
-#lifeandlove 

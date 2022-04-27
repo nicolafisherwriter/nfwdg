@@ -44,5 +44,3 @@ Apart from that, I've used Notion to plan my weeks more effectively than the who
 ## Don't discount Notion
 
 Obsidian and Notion are apples and oranges. I'm glad I gave Notion a second chance!
-
-[[writing]]

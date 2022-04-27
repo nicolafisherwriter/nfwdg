@@ -33,7 +33,3 @@ To truly live a gentle life.
 I believe that embracing a gentler pace is good for us and also the world around us. In fact, I think it's the key to transformation. I just haven't worked out how to make it a reality.
 
 This may be what I explore during Ship 30 for 30. How can you live a gentle life and still do it all. Or can you?
-
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#ship30for30 #shipped #atomicessay #slowandgentle 

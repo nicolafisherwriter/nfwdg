@@ -1,6 +1,5 @@
 ---
 title: notepd
-tags: writing
+tags: techandtools
 ---
 
-[[tech and tools]].

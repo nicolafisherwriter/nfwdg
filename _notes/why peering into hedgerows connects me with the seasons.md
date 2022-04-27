@@ -19,4 +19,3 @@ Surveying hedges is the best way I’ve found to connect with the seasons, to ta
 
 Why don’t you give it a try? Notice the small things and watch the year unfold.
 
-[[writing]]

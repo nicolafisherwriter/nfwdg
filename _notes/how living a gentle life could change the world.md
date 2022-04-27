@@ -31,7 +31,3 @@ I have a vision, naive maybe, of a world where we each have what we need.
 -   We find fulfilment where we least expect it
 
 In changing our perspective to _Planet-Society-Economy_ (Ron Garan, Astronaut), we shift our focus on to the world around us. We see the symbiotic relationship between us and everything in nature.
-
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#ship30for30 #shipped #slowandgentle #tweet100 #atomicessay 

@@ -30,5 +30,3 @@ I'm not abandoning Obsidian! Craft and Obsidian are apples and oranges. But, for
 At this stage, using Craft is an experiment. The free version only allows you to create 1000 blocks. When I run out of blocks (fairly soon as I'm currently at 519), it will be easy to migrate my notes into Obsidian and re-point my domain name.
 
 Craft is currently Apple only and the subscription version costs £44.99/year.
-
-[[Obsidian]]

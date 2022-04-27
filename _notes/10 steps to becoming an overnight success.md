@@ -50,5 +50,3 @@ Speak from the heart. Never doubt that you have a good story to tell.
 You won't know the road map when we you set out. We made it up as we went along.
 
 There is no overnight success! Put in the work and create the right conditions for your success.
-
-[[writing]]

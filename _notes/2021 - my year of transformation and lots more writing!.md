@@ -20,5 +20,3 @@ For the next 30 days I’ll be writing about living a gentle life, and how that 
 Using Ev Chapman’s brilliant Consumer 2 Creator Notion template, I’ve devised a plan which will take us, one day at a time, through each of the topics and bring us to their logical conclusion.
 
 I’m excited to get writing! Hope you’ll join me for the ride!
-
-[[writing]]

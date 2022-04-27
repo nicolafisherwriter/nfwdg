@@ -24,5 +24,3 @@ I find my lost mojo in the notes I write on the pages of my journals. Playing do
 My trust of the process is still imperfect. Like a flower, we experience the ebb and flow of growth.
 
 Nothing blooms until you first sow the seeds. Then you wait. And wait some more. It may appear that nothing is happening but then you spot the new shoots growing.
-
-[[writing]]

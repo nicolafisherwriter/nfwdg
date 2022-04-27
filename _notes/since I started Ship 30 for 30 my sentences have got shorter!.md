@@ -35,7 +35,3 @@ There's still work to be done. Clarifying my niche and the themes I want to expl
 ### Thinking of signing up for Ship 30 for 30?
 
 I've done a lot of online courses. But this has been outstanding. Dickie and Cole thought of everything, and exceeded all my expectations. Best of all, I've acquired a writing habit, all thanks to their guidance.
-
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#ship30for30 #shipped #atomicessay #penandink 

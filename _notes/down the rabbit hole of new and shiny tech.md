@@ -56,5 +56,3 @@ I'm using my account to share a weekly (or more frequent) round up of findings a
 Another voice app! My favourite. This is like a mini podcast, a short story that you share or just 9 minutes worth of chat. Again, shared direct to your Twitter account, I find it interesting and will be exploring it further.
 
 So, these are the new and shiny apps I'm enjoying right now. Although I am something of a magpie, I try to restrict myself to apps that can add value to my life or my content. I'm very much on the PKM journey and that's the driving force at the moment behind what is really interesting me. It is the gift that keeps on giving and I don't see the appeal of it waning any time soon!
-
-[[tech and tools]]

@@ -13,4 +13,3 @@ I started reading the book and haven't been able to put it down. While Julia's l
 
 The book falls into the category of unputdownable. I find myself immersed in her life and memories of my own time there.
 
-[[reading]]

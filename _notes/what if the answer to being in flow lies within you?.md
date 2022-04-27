@@ -18,5 +18,3 @@ Some years ago I began exploring an idea that I called essence. Our unique bluep
 My essence is unconventional and eccentric. It takes me down the road less travelled and lives along the edges.
 
 When we’re in alignment we tap into who we are meant to be, our best selves. We are touching the source of our being.
-
-[[writing]]

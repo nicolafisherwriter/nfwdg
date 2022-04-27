@@ -18,5 +18,3 @@ The urge to put a fire under everything has been strong again. But, I’m rethin
 The bridges that I’ve burned come back to haunt me, to nudge me and tell me that my work is not yet done. There are still new avenues to explore.
 
 So, I’m concentrating on what fires me up, what sets me alight, and use that to light my way instead.
-
-[[writing]]

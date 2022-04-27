@@ -24,5 +24,3 @@ We don't want to have to start again. Fear of the unknown is worse than what we 
 Yet ... when people do launch into the unknown, they're most often surprised, finding themselves on a new path that they could never have envisaged.
 
 All we have to do is take the next step in the knowledge that doors will open and the path will appear. And that we are equal to the task ahead of us.
-
-[[writing]]

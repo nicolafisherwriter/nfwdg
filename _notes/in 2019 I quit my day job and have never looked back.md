@@ -43,7 +43,3 @@ I’ve followed my bliss and, for the most part, gone with the flow.
 I should have done it sooner but everything happens in perfect timing.
 
 Seize the day And your dream.
-
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#ship30for30 #shipped #atomicessay #slowandgentle 

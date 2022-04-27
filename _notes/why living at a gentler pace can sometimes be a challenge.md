@@ -29,4 +29,3 @@ It's easy to be swayed by responsibilities and other demands. Every day we have 
 
 We are programmed for busy-ness. We need to re-programme ourselves for a gentle life.
 
-[[writing]]
