@@ -7,14 +7,14 @@ permalink: /
 
 ## Welcome! 🌱
 
--   Find out more [about Nicola](app://obsidian.md/about%20Nicola)
--   Check out what books I'm [reading](app://obsidian.md/reading)
--   And what I'm [learning](app://obsidian.md/learning) right now
--   Browse some of my favourite [quotes](app://obsidian.md/quotes)
--   Read my latest [writing](app://obsidian.md/writing) and [thoughts](app://obsidian.md/thoughts)
--   Learn about my [planning](app://obsidian.md/planning) process
--   Join me as I share my love of [gardening](app://obsidian.md/gardening)
--   Experience [tech and tools](app://obsidian.md/tech%20and%20tools) made easy.
+-   Find out more [[about Nicola]]
+-   Check out what books I'm [[reading]]
+-   And what I'm [[learning]] right now
+-   Browse some of my favourite [[quotes]]
+-   Read my latest [[writing]] and [[thoughts]]
+-   Learn about my [[planning]] process
+-   Join me as I share my love of [[gardening]]
+-   Experience [[tech and tools]] made easy.
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
