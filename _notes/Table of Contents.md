@@ -2,7 +2,7 @@
 - [[1. How the Essence Map unfolded]]
 - [[2. The End of the World as We Know It]]
 - [[3. Copyright]]
-- [[4. Dedication]
+- [[4. Dedication]]
 - [[5. A Crisis is a Holy Summons to Cross the Threshold]]
 - [[6. Why walking through fire is our way home]]
 - [[7. How to navigate the Essence Map]]
