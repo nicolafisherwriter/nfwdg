@@ -1,3 +1,5 @@
+Find your way around the book by selecting the sections below. Over time, I'll be restructuring and re-ordering the content to complete the book. For now, here are all the right words, not necessarily in the right order.
+
 - [[Read on Substack]]
 - [[1. How the Essence Map unfolded]]
 - [[2. The End of the World as We Know It]]
