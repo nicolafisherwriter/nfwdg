@@ -11,7 +11,7 @@ permalink: /
 -   Check out what books I'm [[reading]]
 -   And what I'm [[learning]] right now
 -   Browse some of my favourite [[quotes]] and other [[references]]
--   Read my latest [[writing]] and [[thoughts]]
+-   Read my latest [[GitHub/topics/writing]] and [[thoughts]]
 -   Learn about my [[planning]] process
 -   Join me as I share my love of [[gardening]]
 -   Experience [[tech and tools]] made easy.

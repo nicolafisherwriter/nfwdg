@@ -26,7 +26,7 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - Stick figure exercise
 - Quote
 - [[You're a Genius]]
-- [[GitHub/book/Table of Contents]]
+- [[Contents]]
 - In this chapter ...
 - Chapter 1 - The End
 - In this chapter ...
