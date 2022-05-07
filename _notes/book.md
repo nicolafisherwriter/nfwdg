@@ -8,7 +8,7 @@ tags: book
 
 is about the journey we take through life, the pivotal moments that launch us on new paths, and the peaks and troughs that reveal who we truly are.
 
-Start here: [Table of Contents](https://nicolawrites.co.uk/table-of-contents)
+Start here: [Table of Contents](https://nicolawrites.co.uk/contents)
 
 <style>
   .wrapper {
