@@ -24,19 +24,37 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - [[Who are you now?]]
 - Who do you want to be?
 - Stick figure exercise
+- [[How Aligned Are You?]]
 - Quote
 - [[You're a Genius]]
 - [[Contents]]
 - In this chapter ...
 - Chapter 1 - The End
+- [[The beginning is often the end]]
+- [[The secret to change]]
+- [[Seed]]
 - In this chapter ...
 - Chapter 2 - The Void
+- [[The brain is a receiver]]
+- [[Evolve or remain]]
+- [[Decluttering]]
+- In this chapter ...
 - Chapter 3 - The Beginning
+- [[Personal Creed]]
+- [[Follow your Bliss]]
+- [[Unbecoming]]
 - In this chapter ...
 - Chapter 4 - Essence
+- [[The medicine to heal the world]]
+- [[What you seek]]
+- [[There is a quickening]]
+- [[The Genius myth leads to a return to the origins of our lives]]
+- [[Longing for home]]
+- [[Heal the world through joy]]
 - In this chapter ...
 - Chapter 5 - Oneness
 - [[You are one of a kind]]
+- [[Made in a star]]
 - [[We are a network of light]]
 - [[Today I am wise]]
 - [[The power of the collective]]
@@ -44,10 +62,15 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - [[Unconventional thinking]]
 - [[What actually matters?]]
 - [[Map of Consciousness]]
+- [[How our vibration can change the world]]
+- [[Choose love]]
+- [[Everything changes]]
 - [[What makes you come alive?]]
 - [[The world needs people who are alive]]
 - [[Your vision, your world]]
 - [[Imagine]]
+- [[We are all connected]]
+- [[Truth within]]
 - The End
 - Photo M&D
 - Quote
