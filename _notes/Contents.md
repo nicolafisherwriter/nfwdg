@@ -28,31 +28,41 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - Quote
 - [[You're a Genius]]
 - [[Contents]]
+
 - In this chapter ...
-- Chapter 1 - The End
+
+## Chapter 1 - The End
 - [[The beginning is often the end]]
 - [[The secret to change]]
 - [[Seed]]
+
 - In this chapter ...
-- Chapter 2 - The Void
+
+## Chapter 2 - The Void
 - [[The brain is a receiver]]
 - [[Evolve or remain]]
 - [[Decluttering]]
+
 - In this chapter ...
-- Chapter 3 - The Beginning
+
+## Chapter 3 - The Beginning
 - [[Personal Creed]]
 - [[Follow your Bliss]]
 - [[Unbecoming]]
+
 - In this chapter ...
-- Chapter 4 - Essence
+
+## Chapter 4 - Essence
 - [[The medicine to heal the world]]
 - [[What you seek]]
 - [[There is a quickening]]
 - [[The Genius myth leads to a return to the origins of our lives]]
 - [[Longing for home]]
 - [[Heal the world through joy]]
+
 - In this chapter ...
-- Chapter 5 - Oneness
+
+## Chapter 5 - Oneness
 - [[You are one of a kind]]
 - [[Made in a star]]
 - [[We are a network of light]]
@@ -71,6 +81,8 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - [[Imagine]]
 - [[We are all connected]]
 - [[Truth within]]
+
+## Endleaves
 - The End
 - Photo M&D
 - Quote
