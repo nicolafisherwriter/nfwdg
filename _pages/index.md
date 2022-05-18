@@ -7,14 +7,25 @@ permalink: /
 
 ## Welcome! 🌱
 
--   Find out more [[about Nicola]]
--   Check out what books I'm [[reading]]
--   And what I'm [[learning]] right now
--   Browse some of my favourite [[quotes]] and other [[references]]
--   Read my latest [[writing]] and [[thoughts]]
--   Learn about my [[planning]] process
--   Join me as I share my love of [[gardening]]
--   Experience [[tech and tools]] made easy.
+[[About Nicola]]
+
+What I'm ...
+	-   [[reading]]
+	-   [[learning]]
+	-   [[writing]]
+
+Read my ...
+	- [[thoughts]]
+	- [book](https://nicolawrites.co.uk/contents)
+
+Browse some of my favourite 
+	- [[quotes]]
+	- [[references]]
+
+Learn about ...
+	- [[planning]]
+	- [[gardening]]
+	- [[tech and tools]]
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 

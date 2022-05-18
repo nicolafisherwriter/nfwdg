@@ -15,12 +15,14 @@ There were signs of encouragement. Kind words, positive comments. Unsolicited em
 
 Then, one day, I decided I had to go all in with my writing. So I did.
 
-- [Medium](https://medium.com/@nicolafisherwriter)
-- [Substack](https://nicolafisherwriter.com)
-- [Daily Log](https://nicolafisherwriter.co.uk)
-- [Digital Garden](https://nicolawrites.co.uk)
-- [NotePD](https://notepd.com/profile/nicolafisher)
-- [Newsletter](https://www.getrevue.co/profile/nicolafisherwriter)
+I'm currently writing ...
+
+- A [book](https://nicolawrites.co.uk/contents)
+- On [Medium](https://medium.com/@nicolafisherwriter)
+- On [Substack](https://nicolafisherwriter.com)
+- A [Daily Log](https://nicolafisherwriter.co.uk)
+- This [Digital Garden](https://nicolawrites.co.uk)
+- Lists on [NotePD](https://notepd.com/profile/nicolafisher)
 
 ---
 
