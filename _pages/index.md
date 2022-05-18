@@ -9,7 +9,7 @@ permalink: /
 
 [[About Nicola]]
 
-What I'm [[reading]], [[learning]], [[writing]]
+What I'm [[reading]], [[learning]], [[writing]] (including [[fiction]])
 
 Read my [[thoughts]], [book](https://nicolawrites.co.uk/contents)
 
