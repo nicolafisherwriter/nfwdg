@@ -42,6 +42,7 @@ Find your way around the book by selecting the sections below. Over time, I'll b
 - [[The brain is a receiver]]
 - [[Evolve or remain]]
 - [[Decluttering]]
+- [[Creativity is the route to our divinity]]
 
 - In this chapter ...
 
