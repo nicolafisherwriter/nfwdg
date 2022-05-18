@@ -9,10 +9,6 @@ I still have a library of books, collected over the years and, every now and aga
 
 There are always several books on the go. I read according to my mood. Occasionally, there will be that one unputdownable book that demands to be read from cover to cover in one sitting.
 
-## currently reading
-
-My Life in France: The Life Story of [[Julia Child]]
-
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*
