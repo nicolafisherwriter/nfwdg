@@ -9,23 +9,13 @@ permalink: /
 
 [[About Nicola]]
 
-What I'm ...
-	-   [[reading]]
-	-   [[learning]]
-	-   [[writing]]
+What I'm [[reading]], [[learning]], [[writing]]
 
-Read my ...
-	- [[thoughts]]
-	- [book](https://nicolawrites.co.uk/contents)
+Read my [[thoughts]], [book](https://nicolawrites.co.uk/contents)
 
-Browse some of my favourite 
-	- [[quotes]]
-	- [[references]]
+Browse some of my favourite [[quotes]], [[references]]
 
-Learn about ...
-	- [[planning]]
-	- [[gardening]]
-	- [[tech and tools]]
+Learn about [[planning]], [[gardening]], [[tech and tools]]
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
