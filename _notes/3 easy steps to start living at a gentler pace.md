@@ -1,6 +1,16 @@
 ---
-title: 3 easy steps to start living at a gentler pace
-tags: agentlerpace
+title: 3 easy steps to living at AGP
+tags: draft
+project: substack
+due: 2022-05-24
+type: 
+fc-calendar: content calendar
+fc-date:
+ year: 2022
+ month: may
+ day: 24
+fc-category: substack
+url:
 ---
 
 I prioritised work for many years. But I missed out on other aspects of life. 

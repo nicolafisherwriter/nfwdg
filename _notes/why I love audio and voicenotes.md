@@ -1,3 +1,18 @@
+---
+title: why I love audio
+tags: draft
+project: medium
+due: 2022-06-06
+type: post
+fc-calendar: content calendar
+fc-date:
+ year: 2022
+ month: june
+ day: 06
+fc-category: medium
+url:
+---
+
 I'm an Introvert and not a fan of phone calls. Unless the call is pre-arranged or initiated by me, I've never enjoyed long drawn out chatty calls. Apparently, this is quite common among Introverts.
 
 Email was a life saver. I could send long messages quite happily but it was voicenotes and audio that were life changing.

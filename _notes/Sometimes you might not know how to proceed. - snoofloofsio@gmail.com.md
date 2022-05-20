@@ -1,0 +1,3 @@
+### “I have no writing process or routine at all. Some days I can’t bear to look at anything I have written, or I just have no idea how to proceed. Therefore there will be days and weeks where I don’t write. But then something will come to me, and I will get back into it for a while. Weeks could pass by, and I wouldn’t have written a word. It used to depress me, but I have just accepted that’s the way it works for me. Of course, it’s hard not to compare yourself with brilliant authors that write five thousand words daily. I’m in awe of that talent.”
+
+**– Caron McKinlay,** _[**interview with The Enterprising Writer**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=713c18ff57&e=bc5cbc9b90)_

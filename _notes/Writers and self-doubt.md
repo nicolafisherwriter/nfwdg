@@ -1,0 +1,3 @@
+Writers never overcome their self-doubt. But here’s the catch: No one does. Writers are just forced to reckon with their self-doubt repeatedly. That’s not just a hazard of the trade — a side effect of foisting your fears and desires on the general populace and hoping you aren’t seen as pathetic or irritating or disgusting as a result. IT’S THE REASON WRITERS WRITE IN THE FIRST PLACE ~ Heather Havrilesky, [Ask Polly](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=f34c2989a4&e=eb9759f735)_
+
+#writing #quotes 

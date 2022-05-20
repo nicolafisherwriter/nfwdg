@@ -1,0 +1,3 @@
+### “So okay – there you are in your room with the shade down and the door shut and the plug pulled out of the base of the telephone. You've blown up your TV and committed yourself to a thousand words a day, come hell or hight water. Now comes the big question: What are you going to write about? And the equally big answer: _Anything you damn well want. Anything at all...as long as you tell the truth_.”
+
+**– Stephen King,** _[**On Writing: A Memoir of the Craft**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=f0dd6544b3&e=bc5cbc9b90)_

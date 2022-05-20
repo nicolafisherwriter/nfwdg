@@ -1,0 +1,3 @@
+### “The life of a writer is a wild adventure you wouldn’t imagine simply by looking at the lonely figure in the black cloak sitting hunched in her or his niche in the cloister, scratching corrections onto the parchment with a feathered quill pen. A writer doesn’t need literary prizes to be happy, happiness lies in the writing itself, sitting down in the niche with the quill pen and adding a few more curlicues. If you love your work be sure never to finish it.”
+
+**– Garrison Keillor,** _[**The Column 10.13.21**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=65f8e77f84&e=bc5cbc9b90)_

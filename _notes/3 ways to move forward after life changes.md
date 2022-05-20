@@ -1,6 +1,8 @@
 ---
 title: 3 ways to move forward after life changes
 tags: agentlerpace
+project: substack
+due: 
 ---
 
 Following life changes, we naturally want to return to our default setting.

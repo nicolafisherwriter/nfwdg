@@ -1,0 +1,5 @@
+"The Mayan people call this the “Time of No Time.” From here on, we’re on Earth time. Mother Earth is shaking to her core. It’s a time of madness, disconnection, and hyper-individualism. It’s also a time when new energies are coming into the world, when people are growing a new skin. The Mayan vision says that we in the West will find safe harbor only if we can journey past a wall of mirrors.
+
+The mirrors will surely drive us mad—unless we have a strong heart. Some mirrors delude us with an infinity of reflections of our vanity and shadows. Others paralyze us with our terror and rage, feeding an empire that manufactures our fear into resignation. But the empire has no roots and it’s toppling all around us. In this time everyone is called to take a stand. Everyone is called to be a leader.
+
+To get beyond the wall of mirrors, the final challenge is to pass through a tiny door. To do this, we must make ourselves very, very small. To be very humble. Then we must burrow down into the Earth, where indigenous consciousness lives. On the other side is a clear pond. There, for the first time, we’ll be able to see our true reflection..."

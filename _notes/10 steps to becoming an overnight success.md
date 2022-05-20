@@ -1,6 +1,8 @@
 ---
 title: 10 steps to becoming an overnight success
 tags: writing
+project: medium
+due: 
 ---
 
 My husband is the UK's only completely blind, professional, accredited woodturner.

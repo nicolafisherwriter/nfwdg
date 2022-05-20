@@ -1,0 +1,1 @@
+it’s going to be very hard for you not only to finish something, but probably to begin something, because the true perfectionist won’t even start. Because they know already that it’s not going to be the thing that they’re dreaming of, and their tastes and their standards are so high.

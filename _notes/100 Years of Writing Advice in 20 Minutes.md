@@ -1,6 +1,6 @@
 ---
 title: 100 Years of Writing Advice in 20 Minutes
-tags: writing
+tags: writing, substack
 ---
 
 _In this episode of MarieTV, we do have some adult language. So if you do have little ones around, grab your headphones now._

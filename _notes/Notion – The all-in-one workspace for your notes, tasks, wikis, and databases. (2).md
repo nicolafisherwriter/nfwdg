@@ -1,0 +1,1 @@
+School, for example, is built on Survival Mode. Fear is created with exams, essays, and the carrot of a college diploma at the end of it all. For a while I resented this system because I realized that the hoops of education were mostly a sham. Only once I graduated from college did I develop a love for learning.
