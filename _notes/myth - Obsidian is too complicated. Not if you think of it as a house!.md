@@ -80,3 +80,5 @@ Obsidian setups come in all shapes and sizes. I like to reuse shared ideas where
 Obsidian is the home for _your_ notes and thoughts. Make it your own.
 
 Start at the beginning, one step at a time. Allow your setup to evolve organically. Think of it as a work in progress, and enjoy the journey!
+
+[[Obsidian]]

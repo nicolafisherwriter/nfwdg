@@ -22,6 +22,4 @@ Although I loved the earlier template I was using, I've settled on a white backg
 [A second brain,  for you, forever.](https://obsidian.md/)
 [Building a second brain](https://maggieappleton.com/basb) 
 
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#secondbrain #notetaking #obsidian 
+[[Obsidian]]

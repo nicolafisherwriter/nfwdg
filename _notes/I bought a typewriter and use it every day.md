@@ -56,3 +56,5 @@ Search _typewriter_ on Instagram or Pinterest. There are typewriters for sale on
 Tempted as I am to acquire countless typewriters, I’m restraining myself. But, I will make an exception for the right pink typewriter! How gorgeous would that look on my desk!
 
 [The Revolution will be typewritten](http://www.timtyson.us/wordpress/wp-content/uploads/2017/09/typewriter-manifesto.jpg)!
+
+[[writing]]

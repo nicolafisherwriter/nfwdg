@@ -71,6 +71,4 @@ Top photo by [Pogány Péter - Egen Wark](https://nds.wikipedia.org/wiki/Obsidia
 
 _I’m publishing this as part of [100 Days To Offload](https://100daystooffload.com/) - Day 31._
 
-### Subscribe to rolisz consulting
-
-#obsidian 
+[[Obsidian]]

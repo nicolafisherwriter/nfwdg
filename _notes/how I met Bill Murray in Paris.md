@@ -18,3 +18,6 @@ On 8 May a big VE day celebration closed the entire Champs Elysees to traffic. I
 There were so many magical moments in Paris that year and this chance encounter was one of them.
 
 Later Paris Match mentioned his favourite restaurant. By then Bill had gone back home but one of the waiters took me to the house next door. There on the gate was a sign: M et Mme B Murray.
+
+[[Meeting Bill Murray in Paris]]
+[[How ‘The Razor’s Edge’ Changed Bill Murray’s Life]]

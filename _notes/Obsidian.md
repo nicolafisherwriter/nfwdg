@@ -11,6 +11,8 @@ It's thanks to Obsidian that I went all in as a writer. From Obsidian to PKM to 
 
 Writing became a possibility and it all started with Obsidian.
 
+[[digital gardening]]
+
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*

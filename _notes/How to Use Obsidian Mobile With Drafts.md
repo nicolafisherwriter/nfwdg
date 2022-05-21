@@ -45,3 +45,6 @@
 
 ## Highlights
 - As often happens, at 3:00 am one morning my subconscious cleared its throat and gave a full report on possible workarounds. Instantly awake, I got up and started working on the problem.
+
+
+[[Obsidian]]

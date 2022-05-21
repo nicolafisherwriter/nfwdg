@@ -1,6 +1,6 @@
 ---
 title: my year of using Obsidian
-tags: writing, techandtools
+tags: writing, techandtools, draft
 ---
 
 *this is unfinished and currently in draft*
@@ -66,3 +66,5 @@ Obsidian can be as simple or as complex as you like. It can be extended with plu
 Repository
 
 As well as being my writing hub, Obsidian is a repository for key information, documents, and work-related content. It can be a task manager and a to do list. You can keep daily notes, and use dataview to track specific data.
+
+[[Obsidian]]

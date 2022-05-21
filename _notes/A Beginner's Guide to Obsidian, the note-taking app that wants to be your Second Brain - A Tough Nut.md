@@ -139,3 +139,5 @@ Future of Obsidian
 Obsidian is still in beta phase but has already provided a very promising platform and a pretty solid foundation as a Note taking app.
 
 I am currently using Notion and is heavily dependent on it’s cross-platform sync and in-house calendar features. I don’t see myself fully converting to Obsidian yet but I will be using it to take technical notes which I truly believe will help me make better sense of my ideas and change the way I learn.
+
+[[Obsidian]]
