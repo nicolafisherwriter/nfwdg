@@ -11,7 +11,7 @@ I'm [[Nicola]] and you're reading my published Obsidian notes. Some of these are
 
 The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric, what I'm [[learning]] and my love of [[gardening]]. 
 
-To navigate, click on any of the links below and use the graph at the bottom of the page.
+To navigate, click on any of the links below or use the graph at the bottom of the page.
 
 - [[Tech and Tools]]
 	- [[Obsidian]]
