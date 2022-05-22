@@ -208,4 +208,4 @@ Save your memories
 
 ## Tags
 
-
+[[Obsidian]]

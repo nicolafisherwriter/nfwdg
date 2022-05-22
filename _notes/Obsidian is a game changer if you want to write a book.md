@@ -1,6 +1,16 @@
 ---
-title: Obsidian is a game changer if you want to write a book
-tags: writing, techandtools
+title: obsidian is a game changer if you want to write a book
+tags: published
+project: medium
+due: 
+type: post
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: medium
+url:
 ---
 
 **This is the process I’m using to write my book.**

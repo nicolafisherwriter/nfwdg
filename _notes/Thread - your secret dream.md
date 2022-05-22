@@ -1,18 +1,18 @@
 ---
-title: what if death
+title: your secret dream
 tags: draft
 project: substack
-due: 2022-05-27
-type: post
+due: 2022-06-05
+type: 
 fc-calendar: content calendar
 fc-date:
  year: 2022
- month: may
- day: 27
+ month: june
+ day: 05
 fc-category: substack
 url:
 ---
 
-Jeremy Clarkson
+- [ ] Your secret dream
 
 [[writing]]

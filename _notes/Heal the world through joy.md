@@ -1,1 +1,0 @@
-Once upon a time, when women were birds, there was the simple understanding that to sing at dawn and to sing at dusk was to heal the world through joy. The birds still remember what we have forgotten, that the world is meant to be celebrated ~ Terry Tempest Williams

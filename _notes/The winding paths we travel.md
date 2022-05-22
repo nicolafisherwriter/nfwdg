@@ -16,3 +16,4 @@ A six week programme with Julia Davies called Magic Mondays showed me that neith
 
 I hate living a lie. Living my truth is massively important to me. But, sometimes life takes over without you realising. It’s only when you stop and pause, take a step back that you can see what’s been going on.
 
+[[writing]]

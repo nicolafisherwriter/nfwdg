@@ -1,6 +1,6 @@
 ---
 title: fiction
-tags: fiction
+tags: writing
 ---
 
 I never thought I would be interested in writing fiction. I didn't think I had the imagination.

@@ -1,6 +1,6 @@
 ---
 title: learning
-tags: learning
+tags: nicola
 ---
 
 ## what I'm learning now

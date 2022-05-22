@@ -24,6 +24,9 @@ I'm currently writing ...
 - This [Digital Garden](https://nicolawrites.co.uk)
 - Lists on [NotePD](https://notepd.com/profile/nicolafisher)
 
+[[fiction]]
+[[thoughts]]
+
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*

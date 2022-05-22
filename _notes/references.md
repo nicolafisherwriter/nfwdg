@@ -1,6 +1,6 @@
 ---
 title: references
-tags: references
+tags: reading
 ---
 
 I save and clip information from a number of sources. 

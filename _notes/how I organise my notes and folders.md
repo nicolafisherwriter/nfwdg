@@ -1,3 +1,18 @@
+---
+title: how I organise my notes and folders
+tags: draft
+project: medium
+due: 2022-06-13
+type: post
+fc-calendar: content calendar
+fc-date:
+ year: 2022
+ month: june
+ day: 13
+fc-category: medium
+url:
+---
+
 I've taken a lot of my initial inspiration from Nick Milo, creator of [LYT Kit](https://www.linkingyourthinking.com/).
 
 I've also been inspired by [Eleanor Konik](https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome) and the [[R. Johnny Decimal]] system.
@@ -40,6 +55,4 @@ I have private folders for:
 [Tending the Roam Garden](https://maggieappleton.com/roam-garden)
 [LYT Kit](https://www.linkingyourthinking.com/)
 
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#digitalgarden #secondbrain #obsidian #notetaking 
+[[digital gardening]]

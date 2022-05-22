@@ -1,6 +1,6 @@
 ---
 title: gardening
-tags: gardening
+tags: nicola
 ---
 
 I've always gardened. From being small when I used to potter about the garden with my Dad. I had a tiny patch of soil, one corner of the vegetable plot, where I would sow seeds and add small plants. Sometimes, I would dig up the plants and rearrange them! I remember diligently watering my little garden.

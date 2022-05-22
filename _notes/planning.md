@@ -1,6 +1,6 @@
 ---
 title: planning
-tags: planning
+tags: techandtools
 ---
 
 I'm a planner. Always have been. I like organisation, I love lists and getting things done.

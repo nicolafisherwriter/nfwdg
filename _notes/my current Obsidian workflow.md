@@ -1,3 +1,18 @@
+---
+title: my current Obsidian workflow
+tags: draft
+project: medium
+due: 2022-06-25
+type: post
+fc-calendar: content calendar
+fc-date:
+ year: 2022
+ month: june
+ day: 25
+fc-category: medium
+url:
+---
+
 ![[obsidian.png]]
 
 My voyage of discovery with Obsidian has been incremental. I've peeled back the layers one day at a time. In recent weeks as I've prioritised my writing, taken on board insights from David Perell and Nicolas Cole, I've streamlined my processes to make the most of the time I have available, and to get the best traction from my content creation. 
@@ -30,6 +45,4 @@ Using iA Writer, notes can be created as drafts on both [Ghost](https://www.agen
 
 Already created in Obsidian, and using [Publish](https://obsidian.md/publish), new notes appear as part of [Nicola's Notes](https://nicolasnotes.co.uk/).
 
-Written by: [@liveagentlelife](https://twitter.com/liveagentlelife)
-
-#digitalgarden #secondbrain #obsidian #notetaking #idea #inprogress
+[[Obsidian]]

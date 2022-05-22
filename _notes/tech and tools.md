@@ -7,7 +7,11 @@ I'm a geek. Tech excites me. Especially in the context of making life easier, pr
 
 I enjoy beta testing something new, looking for possible uses, thinking laterally about how an app could be helpful. Mostly, I love mastering something I've not used before.
 
-I write about my favourite tech and tools. Often [[Obsidian]]. I talk about how I use apps and share what I've learned to make tech easy for others.
+I write about my favourite tech and tools. I talk about how I use apps and share what I've learned to make tech easy for others.
+
+[[Obsidian]]
+[[digital gardening]]
+[[planning]]
 
 ---
 

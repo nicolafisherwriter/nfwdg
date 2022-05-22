@@ -1,6 +1,6 @@
 ---
 title: what's really important
-tags: inbox
+tags: idealog
 project: substack
 due: 
 type: 

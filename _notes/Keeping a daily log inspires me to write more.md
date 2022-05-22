@@ -7,3 +7,5 @@ I never knew as Deborah Levy suggests that a journal I kept in my twenties durin
 The penny has finally dropped. There are so many ways I can repurpose the notes I’ve been keeping for decades.
 
 I’m better equipped than I thought I was.
+
+[[writing]]

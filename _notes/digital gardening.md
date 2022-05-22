@@ -5,8 +5,6 @@ tags: techandtools
 
 text re digital gardening
 
-[[Obsidian]]
-
 ---
 
 *Navigate using the graph below and the notes list in the right hand column.*

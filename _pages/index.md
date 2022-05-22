@@ -7,9 +7,13 @@ permalink: /
 
 ## Welcome! 🌱
 
-[[About Nicola]]
+I'm [[Nicola]] and you're reading my published Obsidian notes. Some of these are works in progress, some merely ideas or headlines, others have been published elsewhere. Notes, and my thinking, may be incomplete.
 
-What I'm [[reading]], [[learning]], [[writing]] (including [[fiction]])
+The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
+
+To navigate, click on any of the links below and use the graph at the bottom of the page.
+
+What I'm [[reading]], [[02 GitHub/topics/learning]], [[writing]] (including [[fiction]])
 
 Read my [[thoughts]], [book](https://nicolawrites.co.uk/contents)
 

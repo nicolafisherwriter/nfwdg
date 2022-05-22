@@ -1,6 +1,16 @@
 ---
 title: my year of using Obsidian
-tags: writing, techandtools, draft
+tags: techandtools, obsidian
+project: medium
+due: 2022-06-02
+type: 
+fc-calendar: content calendar
+fc-date:
+ year: 2022
+ month: june
+ day: 02
+fc-category: medium
+url:
 ---
 
 *this is unfinished and currently in draft*

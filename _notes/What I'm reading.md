@@ -1,18 +1,14 @@
 ---
-title: what if death
+title: what I am reading
 tags: draft
 project: substack
-due: 2022-05-27
+due: 2022-06-03
 type: post
 fc-calendar: content calendar
 fc-date:
  year: 2022
- month: may
- day: 27
+ month: june
+ day: 03
 fc-category: substack
 url:
 ---
-
-Jeremy Clarkson
-
-[[writing]]
