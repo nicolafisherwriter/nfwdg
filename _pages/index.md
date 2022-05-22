@@ -13,19 +13,19 @@ The range of topics reflects my eclectic fascinations from tech, writing, to the
 
 To navigate, click on any of the links below and use the graph at the bottom of the page.
 
-[[tech and tools]]
-	[[Obsidian]]
-	[[digital gardening]]
-	[[planning]]
+- [[Tech and Tools]]
+	- [[Obsidian]]
+	- [[Digital Gardening]]
+	- [[Planning]]
 
-[[Writing]]
-	[[fiction]]
-	[[thoughts]]
+- [[Writing]]
+	- [[Fiction]]
+	- [[Thoughts]]
 
-[[reading]]
-	[[references]]
-	[[quotes]]
-	[[twitter]]
+- [[Reading]]
+	- [[References]]
+	- [[Quotes]]
+	- [[Twitter]]
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
