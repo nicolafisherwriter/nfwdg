@@ -9,17 +9,23 @@ permalink: /
 
 I'm [[Nicola]] and you're reading my published Obsidian notes. Some of these are works in progress, some merely ideas or headlines, others have been published elsewhere. Notes, and my thinking, may be incomplete.
 
-The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
+The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric, what I'm [[learning]] and my love of [[gardening]]. 
 
 To navigate, click on any of the links below and use the graph at the bottom of the page.
 
-What I'm [[reading]], [[02 GitHub/topics/learning]], [[writing]] (including [[fiction]])
+[[tech and tools]]
+	[[Obsidian]]
+	[[digital gardening]]
+	[[planning]]
 
-Read my [[thoughts]], [book](https://nicolawrites.co.uk/contents)
+[[Writing]]
+	[[fiction]]
+	[[thoughts]]
 
-Browse some of my favourite [[quotes]], [[references]]
-
-Learn about [[planning]], [[gardening]], [[tech and tools]]
+[[reading]]
+	[[references]]
+	[[quotes]]
+	[[twitter]]
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
