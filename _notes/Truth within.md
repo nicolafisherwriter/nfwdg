@@ -1,0 +1,1 @@
+At this critical time on earth, the real work of humanity may depend upon finding a greater sense of meaning and truth within ourselves that can connect us to the underlying wholeness and hidden unity of all of life ~ Michael Meade

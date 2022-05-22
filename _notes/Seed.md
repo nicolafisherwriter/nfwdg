@@ -1,0 +1,1 @@
+For a seed to achieve its greatest expression, it must come completely undone. The shell cracks, its insides come out and everything changes. To someone who doesn't understand growth, it would look like complete destruction ~ Cynthia Occelli
