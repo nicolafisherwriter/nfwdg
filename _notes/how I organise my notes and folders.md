@@ -2,13 +2,13 @@
 title: how I organise my notes and folders
 tags: draft
 project: medium
-due: 2022-06-13
+due: 2022-07-04
 type: post
 fc-calendar: content calendar
 fc-date:
  year: 2022
- month: june
- day: 13
+ month: july
+ day: 04
 fc-category: medium
 url:
 ---

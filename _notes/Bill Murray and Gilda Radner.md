@@ -1,5 +1,5 @@
 ---
-title: bill murray and gilda radner
+title: Bill Murray and Gilda Radner
 tags: bill murray, seedling
 project: 
 due: 
@@ -11,9 +11,6 @@ fc-date:
  day: 
 fc-category: 
 url:
----
-
-# Bill Murray and Gilda Radner
 ---
 
 ## My notes

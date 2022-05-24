@@ -1,5 +1,5 @@
 ---
-title: how I met bill murray in paris
+title: How I met Bill Murray in Paris
 tags: bill murray, seedling
 project: 
 due: 
@@ -11,9 +11,6 @@ fc-date:
  day: 
 fc-category: 
 url:
----
-
-# How I met Bill Murray in Paris
 ---
 
 ## My notes

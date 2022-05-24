@@ -2,13 +2,13 @@
 title: my current Obsidian workflow
 tags: draft
 project: medium
-due: 2022-06-25
+due: 2022-07-09
 type: post
 fc-calendar: content calendar
 fc-date:
  year: 2022
- month: june
- day: 25
+ month: july
+ day: 09
 fc-category: medium
 url:
 ---
