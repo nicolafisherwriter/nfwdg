@@ -1,6 +1,6 @@
 ---
 title: how to write any time
-tags: draft
+tags: draft, upnext
 project: medium
 due: 2022-05-26
 type: post

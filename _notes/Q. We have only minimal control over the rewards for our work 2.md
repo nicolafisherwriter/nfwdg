@@ -1,0 +1,5 @@
+In life, there will be times when we do everything right, perhaps even perfectly. Yet the results will somehow be negative: failure, disrespect, jealousy, or even a resounding yawn from the world…We are all faced with this same challenge in the pursuit of our own goals: Will we work hard for something that can be taken away from us? Will we invest time and energy even if an outcome is not guaranteed? With the right motives we’re willing to proceed. With ego, we’re not.  
+  
+It takes humility to admit that we have only minimal control over the rewards for our work and effort—other people’s validation, recognition, rewards…It’s far better (and more resilient) when doing good work is sufficient. In other words, the less attached we are to outcomes the better. When fulfilling our own standards is what fills us with pride and self respect. When the effort—not the results, good or bad—is enough…Do your work. Do it well. Then “let go and let God.“ That’s all there needs to be ~ [Ryan Holiday](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=03f75c83e6&e=eb9759f735)
+
+#quotes 

@@ -1,0 +1,3 @@
+The irony is most people project all their own greatness outside of themselves thinking that it is elsewhere only in other people, however the very fact that they notice greatness in others is only the reflection of something within themselves or else they wouldn't even have noticed it in the first place. So question is not, 'Am I great, do I have anything special to offer, am I worthy?' In truth, the only question is, 'Are you willing to take back all your projections and realize that you already are everything you are seeking or admiring in others? ~ Mat - Inner Work Retreat
+
+#genius #essence #quotes

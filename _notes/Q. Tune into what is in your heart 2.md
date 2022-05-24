@@ -1,0 +1,3 @@
+Take a moment, dear Nicola, to tune into that which is in your heart. What do you long for? What is within you, that wants to be expressed or unearthed? And how might this differ from what your mind is telling you? Your mind has stories, limitations and old beliefs. It's serving up a set of 'rules' you're living by that may no longer be true for you (if they ever were). It's time, dear heart, to listen to what you really want. We will help you connect to it this week ~ Chris (my Spiritual Support Team)
+
+Affirmation: "I trust my heart will lead me where I need to go. I appreciate my mind's logic and am confident following my heart will bring about my greatest good."

@@ -1,7 +1,22 @@
 ---
-title: how I met Bill Murray in Paris
-tags: writing
+title: how I met bill murray in paris
+tags: bill murray, seedling
+project: 
+due: 
+type: note
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: 
+url:
 ---
+
+# How I met Bill Murray in Paris
+---
+
+## My notes
 
 In 1984 I lived in Paris, studying at the Sorbonne as part of my French degree.
 
@@ -19,5 +34,20 @@ There were so many magical moments in Paris that year and this chance encounter 
 
 Later Paris Match mentioned his favourite restaurant. By then Bill had gone back home but one of the waiters took me to the house next door. There on the gate was a sign: M et Mme B Murray.
 
+---
+
+## Source
+
+Memory: 1985, Paris
+
+---
+
+## Parent note
+
 [[Meeting Bill Murray in Paris]]
-[[How ‘The Razor’s Edge’ Changed Bill Murray’s Life]]
+
+---
+
+## Other related notes
+
+This also relates to [[Bill Murray and Gilda Radner]] and [[How ‘The Razor’s Edge’ Changed Bill Murray’s Life]].

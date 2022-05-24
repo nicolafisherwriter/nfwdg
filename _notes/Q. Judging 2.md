@@ -1,0 +1,1 @@
+Judging a person does not define who they are. It defines who you are ~ Kristen Stewart ^cd239c

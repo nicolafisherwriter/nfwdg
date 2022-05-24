@@ -1,0 +1,1 @@
+writing is very much generated from within. I think, any kind of art-making or any kind of creative work, you have to ultimately be doing it because you feel driven to do it, you feel passionate about doing it, you’re engaged with something that feels important to you in your life.

@@ -1,6 +1,6 @@
 ---
 title: 3 easy steps to living at AGP
-tags: draft
+tags: draft, upnext
 project: substack
 due: 2022-05-24
 type: 
