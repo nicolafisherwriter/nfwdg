@@ -1,5 +1,0 @@
-The perception of our reality is dramatically expanding, which is enabling us to see beyond the boundaries of our past conditioning. The veils of illusion continue to dissolve and reveal the separation and disconnection that exists both within us and in our world. As a result, the masks of our conventional reality are falling away challenging the status quo of our lives.
-
-You can no longer play victim to your fears and must now move away from bondage and into balanced sovereignty. Embrace your fears and your doubts about the unknown. Acknowledge your judgements and the illusions you have lived under. Call up your anger, frustration, jealousies and hostility and recognize how they affect the world around you. Be conscious of what you carry as an energy within you and do what is necessary to find healing, release and balance ~ Kate Spreckley
-
-#quotes 

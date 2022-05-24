@@ -13,9 +13,6 @@ fc-category: medium
 url:
 ---
 
-# Rethinking the Obsidian analogy
----
-
 ## My notes
 
 My original note about thinking of Obsidian in terms of a house was intended to help new users, who often talked of feeling overwhelmed by Obsidian, to simplify the process.

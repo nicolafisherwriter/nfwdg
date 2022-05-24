@@ -1,3 +1,0 @@
-### “There is a vitality, a life force, an energy, a quickening that is translated through you into action. And because there is only one of you in all of time, this expression is unique. And if you block it, it will never exist through any other medium and it will be lost. The world will not have it. It is not your business to determine how good it is nor how valuable nor how it compares with other expressions. It is your business to keep it yours clearly and directly, to keep the channel open.”
-
-**—** [**Martha Graham**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=c8cf3abd76&e=bc5cbc9b90)

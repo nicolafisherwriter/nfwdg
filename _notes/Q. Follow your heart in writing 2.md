@@ -1,3 +1,0 @@
-I encourage you to follow your heart in writing. If you follow your heart, if you do what you love, if you get to the place, \[where\] you succeed in starting from the beginning of the novel and getting to the end of the novel, then you're doing the best you can. You're living in the best moment of your life. What comes later, is what comes later ... But before doing any of that you have to follow your heart inside of writing and you have to do it every day ~ Walter Mosely, [as part of his Masterclass](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=d0c819539f&e=eb9759f735)
-
-#quotes #writing

@@ -13,8 +13,6 @@ fc-category:
 url:
 ---
 
-## My notes
-
 In 1984 I lived in Paris, studying at the Sorbonne as part of my French degree.
 
 I'd heard rumours that Bill Murray was in town. Ghostbusters was just out and he'd been making The Razor's Edge. After filming, he decided to stay on to study.

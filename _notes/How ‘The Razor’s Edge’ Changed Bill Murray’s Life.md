@@ -13,8 +13,6 @@ fc-category:
 url:
 ---
 
-## My notes
-
 Bill Murray didn't offer me chocolate when I chatted with him - he offered me a piece of his Palmier.
 
 ---
@@ -37,4 +35,4 @@ Though Murray and his family returned to their home in the Hudson Valley afte
 
 ## Other related notes
 
-This also relates to [[how I met Bill Murray in Paris]] and [[Bill Murray and Gilda Radner]].
+This also relates to [[How I met Bill Murray in Paris]] and [[Bill Murray and Gilda Radner]].

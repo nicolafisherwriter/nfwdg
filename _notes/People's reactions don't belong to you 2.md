@@ -1,3 +1,0 @@
-### “Recognizing that people's reactions don't belong to you is the only sane way to create. If people enjoy what you've created, terrific. If people ignore what you've created, too bad. If people misunderstand what you've created, don't sweat it. And what if people absolutely hate what you've created? What if people attack you with savage vitriol, and insult your intelligence, and malign your motives, and drag your good name through the mud? Just smile sweetly and suggest - as politely as you possibly can - that they go make their own fucking art. Then stubbornly continue making yours.”
-
-#### – Elizabeth Gilbert, _[Big Magic: Creative Living Beyond Fear](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=ab5f7af34f&e=bc5cbc9b90)_

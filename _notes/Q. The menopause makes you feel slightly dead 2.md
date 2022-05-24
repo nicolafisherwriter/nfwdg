@@ -1,3 +1,0 @@
-People don't talk about it, but the menopause, for me, makes you feel slightly dead, so you have to start using the other things – using your mind more, read more, you have to be more enlightened, you have to take on new things, think of new ideas, discover new things, start looking at the stars, understand astronomy… just wake yourself up, otherwise it's a gentle decline. For women, it is the beginning of dying. It is a sign. I've got to start using my brain more – I've got to be more ethereal and more enlightened ~ Tracey Emin
-
-#menopause

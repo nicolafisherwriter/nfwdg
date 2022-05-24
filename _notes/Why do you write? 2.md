@@ -1,3 +1,0 @@
-Go into yourself. Look for the reason that is making you write; see whether it has put down roots in the deepest place in your heart; admit, in all honesty, whether or not you would die if you weren't allowed to write. This above all: Ask yourself, in your night's quietest moment, Do I have to write? Dig deep down into yourself for the answer. And if it is yes, if you can meet this solemn question with a strong and simple 'I must', then build your life around that necessity. Your whole life, down to its most trivial, indifferent moments, must be a sign of this need, a testament to it ~ Rainer Maria Rilke
-
-#quotes

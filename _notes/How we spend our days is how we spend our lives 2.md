@@ -1,3 +1,0 @@
-### "How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. It is a scaffolding on which a worker can stand and labor with both hands at sections of time. A schedule is a mock-up of reason and order—willed, faked, and so brought into being; it is a peace and a haven set into the wreck of time; it is a lifeboat on which you find yourself, decades later, still living. Each day is the same, so you remember the series afterward as a blurred and powerful pattern."
-
-#### – Annie Dillard, _[The Writing Life](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=4d27f0448a&e=bc5cbc9b90)_
