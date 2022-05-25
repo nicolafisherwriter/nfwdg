@@ -1,0 +1,3 @@
+Artists are not like athletes. We cannot win gold. We cannot 'beat' other creatives. We cannot come first. Sport is objective. Our craft is subjective. Creating to 'be the best' is a waste of energy. Instead, create to connect to the people who need you. Because they're out there. Create in your way, because there is no right way. Take the pressure off, and focus on your unique brand of magic ~ [Amie McNee](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=060a9d7648&e=bc5cbc9b90)
+
+#quotes 

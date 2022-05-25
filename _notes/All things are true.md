@@ -1,0 +1,3 @@
+### “Fiction is a kind of compassion-generating machine that saves us from sloth. Is life kind or cruel? Yes, Literature answers. Are people good or bad? You bet, says Literature. But unlike other systems of knowing, Literature declines to eradicate one truth in favor of another; rather, it teaches us to abide with the fact that, in their own way, all things are true, and helps us, in the face of this terrifying knowledge, continually push ourselves in the direction of Open the Hell Up.”
+
+**—** [**George Saunders**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=cd7384fc4a&e=bc5cbc9b90)

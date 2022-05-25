@@ -1,0 +1,3 @@
+### “Mediocre in its simple signification I do not despise at all. And one certainly does not rise above that mark by despising what is mediocre. In my opinion one must begin by at least having some respect for the mediocre and know that it already means something, and that it is only reached through great difficulty.”
+
+**– Vincent van Gogh,** _[**The Letters of Vincent van Gogh**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=bcf7a3ced2&e=bc5cbc9b90)_

@@ -1,0 +1,3 @@
+A writer—and, I believe, generally all persons—must think that whatever happens to him or her is a resource. All things have been given to us for a purpose, and an artist must feel this more intensely. All that happens to us, including our humiliations, our misfortunes, our embarrassments, all is given to us as raw material, as clay, so that we may shape our art ~ [Jorge Luis Borges](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=d4af57d071&e=bc5cbc9b90)
+
+#quotes 

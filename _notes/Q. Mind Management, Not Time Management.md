@@ -1,0 +1,5 @@
+**Restorative things are productive:** Given this struggle between your prefrontal cortex and amygdala, and the fact that your prefrontal cortex is so easily fatigued, it should be no surprise that rest is important to using your mind effectively. If you think you’re getting more work done by working until you collapse every night, I’d argue that you probably aren’t. You’re probably depleting your prefrontal cortex, and instead of thinking strategically, are filling up the time with reactionary, fear-driven (amygdala-driven) “work.” Restorative activities, such as exercising, sleeping, and spending time with loved ones help your brain reorganize. If you’re skeptical, there’s research showing that [positive mood](https://www.ncbi.nlm.nih.gov/pubmed/18578603) and [sleep](http://www.timrickard.com/psych193/6%20insight%20Wagner.pdf) encourage insightful thinking, and that close relationships strongly affect happiness.
+
+https://kadavy.net/blog/posts/mind-management-intro
+
+#secondbrain #selfcare 

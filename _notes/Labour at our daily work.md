@@ -1,0 +1,1 @@
+"We labour at our daily work more ardently and thoughtlessly than is necessary to sustain our life because to us it is even more necessary not to have leisure to stop and think. Haste is universal because everyone is in flight from himself." - Friedrich Nietzsche
