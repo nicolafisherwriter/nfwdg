@@ -1,9 +1,0 @@
-Advice about writing is mostly pretty awful, but a long time ago, another writer said something to me, really an aside, a stray thought, that has stuck with me, as advice about writing, or maybe advice about life itself. ‘No one is ever going to ask you to write a book,’ she said, and she’d know, having published three at that point...
-
-Take the ‘book’ out of it; no one will ask you to write, full stop. It’s up to you. You probably already knew that, which is why you’re trying to produce 1000 words a day right now. Part of you knows that some percentage of those words won’t be good, that you’ll write and rewrite and revise and write more and slash and write more and revise and on and on. Yet without those first 1000 words, you have nothing, the first step of that proverbial 1000-mile journey.
-
-No one is asking you to take that 1000-mile journey, not the way your dog asks you to take it for a walk, or your kids ask you for a snack, or your family or your work or the million demands of existence ask you for your attention. I find this liberating, and hope that you will, too. Writing isn’t something anyone wants from you, but a thing you demand of yourself.”
-
-What are you demanding of yourself today? What does your first step look like? ~ [Rumaan Alam](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flondonwriterssalon.us4.list-manage.com%2Ftrack%2Fclick%3Fu%3D8b047263967451488070a8ad0%26id%3Da6f8ae0531%26e%3Dd0baf97615&data=04%7C01%7C%7C8779449a4ad14712d53608d94b56690f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637623656766822356%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=mVr6aSOQ7Daj5W5K%2Fs21bn6s84mFMfW%2FsvQIdTPMM9A%3D&reserved=0 "Protected by Outlook: https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=a6f8ae0531&e=d0baf97615. Click or tap to follow the link.")
-
-#quotes 

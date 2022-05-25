@@ -1,3 +1,0 @@
-> Imagine all the people living life in peace. You may say I’m a dreamer, but I’m not the only one. I hope someday you’ll join us, and the world will be as one.
-
-John Lennon

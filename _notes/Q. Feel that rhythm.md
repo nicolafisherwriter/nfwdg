@@ -1,3 +1,0 @@
-Beneath memory and experience, beneath imagination and invention, beneath words, there are rhythms to which memory and imagination and words all move. The writer's job is to go down deep enough to feel that rhythm, find it, move to it, be moved by it, and let it move memory and imagination to find words ~ [Ursula K. Le Guin](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=c58e091f30&e=eb9759f735)
-
-#quotes 

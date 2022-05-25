@@ -1,3 +1,0 @@
-### “Are you a born writer? Were you put on earth to be a painter, a scientist, an apostle of peace? In the end the question can only be answered by action. Do it or don't do it. \[...\] Creative work is not a selfish act or a bid for attention on the part of the actor. It's a gift to the world and every being in it. Don't cheat us of your contribution. Give us what you've got.”
-
-#### – Steven Pressfield, _[The War of Art](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=cc2585691c&e=bc5cbc9b90)_

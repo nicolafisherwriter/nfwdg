@@ -1,1 +1,0 @@
-Everything changes when you start to emit your own frequency rather than absorbing the frequencies around you, when you start imprinting your intent on the universe rather than receiving an imprint from existence ~ Barbara Marciniak

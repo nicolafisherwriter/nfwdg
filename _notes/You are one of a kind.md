@@ -1,3 +1,0 @@
-> Never forget that you are one of a kind. Never forget that if there weren’t any need for you in all your uniqueness to be on this earth, you wouldn’t be here in the first place. And never forget, no matter how overwhelming life’s challenges and problems seem to be, that one person can make a difference in the world. In fact, it is always because of one person that all the changes that matter in the world come about. So be that one person.
-
-Buckminster Fuller

@@ -1,3 +1,0 @@
-### “My jump isn't high enough, my spins aren't perfect, I can't put my leg behind my ear. Please don't do that. Sometimes there is such an obsession with technique that it can kill your best impulses. Remember that communicating with an art form means being vulnerable, being imperfect. And most of the time it's much more interesting. Believe me.”
-
-#### – Mikhail Baryshnikov, _[USC Kaufman Keynote Speech](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=af8e74c7c1&e=bc5cbc9b90)_

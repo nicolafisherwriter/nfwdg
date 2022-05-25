@@ -1,5 +1,0 @@
-### “Creative work needs solitude. It needs concentration, without interruptions. It needs the whole sky to fly in, and no eye watching until it comes to that certainty which it aspires to, but does not necessarily have at once. Privacy, then. A place apart — to pace, to chew pencils, to scribble and erase and scribble again...  
-  
-No one yet has made a list of places where the extraordinary may happen and where it may not. Still, there are indications. Among crowds, in drawing rooms, among easements and comforts and pleasures, it is seldom seen. It likes the out-of-doors. It likes the concentrating mind. It likes solitude. It is more likely to stick to the risk-taker than the ticket-taker. It isn’t that it would disparage comforts, or the set routines of the world, but that its concern is directed to another place. Its concern is the edge, and the making of a form out of the formlessness that is beyond the edge.”
-
-**— Mary Oliver,** _[**Upstream**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=073e4fa09c&e=bc5cbc9b90) **via Brain Pickings**_
