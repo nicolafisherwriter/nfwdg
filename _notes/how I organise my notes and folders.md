@@ -1,5 +1,5 @@
 ---
-title: how I organise my notes and folders
+title: How I organise my notes and folders
 tags: draft
 project: medium
 due: 2022-07-04
@@ -50,9 +50,21 @@ I have private folders for:
 - Writing
 - Attachments, Templates
 
-## links
+---
+
+## Source
 
 [Tending the Roam Garden](https://maggieappleton.com/roam-garden)
 [LYT Kit](https://www.linkingyourthinking.com/)
 
-[[digital gardening]]
+---
+
+## Parent note
+
+Backlink to parent note
+
+---
+
+## Other related notes
+
+This also relates to [[digital gardening]] and [[Bob Doto on Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground]].

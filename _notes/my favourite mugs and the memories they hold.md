@@ -1,3 +1,18 @@
+---
+title: My favourite mugs and the memoriess they hold
+tags: evergreen
+project: 
+due: 
+type: note
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: 
+url:
+---
+
 I recently posted photos on an Instagram Story of a couple of mugs I bought for myself. I’d spotted the first one, white and printed with two illustrations of cameras, in a local garden centre, and I knew I had to buy it. Despite already having a cupboard full of mugs at home, there was still room for one more!
 
 The second, bought in yet another garden centre, featured Brilliant Birds. I also got one for Chris – Gentle German Shepherds in honour of Bamber.
@@ -22,7 +37,7 @@ The mug tree is like a point of reference. I only have to see it in situ in my m
 
 Not that long after my Mum had died I went to a meeting and the mug I was given was the same design as the one my Mum always used (the one with the flowers). It completely floored me.
 
-A blue mug reminds me of a trip my Mum and I made to the Walker Art Gallery in Liverpool for an Alma Tadema exhibition. [Chesters](https://www.facebook.com/pages/Chesters-By-The-River) was one of our regular haunts and favourite place to have lunch on our trips to the Lake District and I was overjoyed when they started selling the ‘I’d rather be …’ mugs. Their cakes were always epic. Whilst Chesters has evolved over the years, I still remember the cafe in the early days with its sofas and white chairs. Because I used to photograph anything and everything, I have countless shots of mugs and teapots, cakes and table decorations. I love it now when these pop up on [Timehop](https://www.timehop.com/).
+A blue mug reminds me of a trip my Mum and I made to the Walker Art Gallery in Liverpool for an Alma Tadema exhibition. [Chesters](https://chestersbytheriver.co.uk/index.html) was one of our regular haunts and favourite place to have lunch on our trips to the Lake District and I was overjoyed when they started selling the ‘I’d rather be …’ mugs. Their cakes were always epic. Whilst Chesters has evolved over the years, I still remember the cafe in the early days with its sofas and white chairs. Because I used to photograph anything and everything, I have countless shots of mugs and teapots, cakes and table decorations. I love it now when these pop up on [Timehop](https://www.timehop.com/).
 
 Apart from trees, mugs are probably my most often photographed subject. I have mug shots(!) from a whole host of cafes. All the usual suspects like Starbucks, Costa, Caffe Nero. Plus a variety of independents. Also visible will be my notebooks and pens, and it’s fun trying to remember what I was doing that day and why I was in the cafe. Mugs have punctuated my life!
 
@@ -31,3 +46,21 @@ I’ve been trying to define what it is about mugs that make them so appealing t
 I’ve no doubt that the number of mugs I own will continue to grow, especially as I’ll probably never be able to part with those mugs that symbolise the chapters of my life with my Mum and Dad, and because I can never resist a nice mug!
 
 I hope that the mugs in your kitchen cupboard or on your mug tree evoke as many happy memories as my little collection!
+
+---
+
+## Source
+
+Source or reference
+
+---
+
+## Parent note
+
+Backlink to parent note
+
+---
+
+## Other related notes
+
+This also relates to [[Chesters]].
