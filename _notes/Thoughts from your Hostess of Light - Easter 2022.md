@@ -1,0 +1,1 @@
+Your stay here is precious to the Universe and paramount to the Earths Healing. Never take yourself for granted.
