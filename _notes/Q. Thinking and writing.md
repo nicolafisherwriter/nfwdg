@@ -1,3 +1,0 @@
-My working habits are simple: long periods of thinking, short periods of writing ~ [Ernest Hemingway](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flondonwriterssalon.us4.list-manage.com%2Ftrack%2Fclick%3Fu%3D8b047263967451488070a8ad0%26id%3Dd1657d6ff0%26e%3Dd0baf97615&data=04%7C01%7C%7Cbf1acfadf92844376fe508d947688f8f%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637619336684902473%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=1COsP8Qd49VPtPT%2B0Oi9G0DvzAgfOBXpsjOC0XACESU%3D&reserved=0 "Protected by Outlook: https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=d1657d6ff0&e=d0baf97615. Click or tap to follow the link.")
-
-#quotes

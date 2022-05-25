@@ -1,1 +1,0 @@
-The secret to change is to focus all your energy, not on fighting the old, but in building the new.

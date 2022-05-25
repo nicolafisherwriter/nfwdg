@@ -1,3 +1,0 @@
-### “Start anywhere, with whatever is in front of you. The key is to begin - and to trust that as long as you’re putting one foot in front of the other, eventually you'll get to where you need to, or at the very least, much farther than you had initially imagined.”
-
-#### — _[Geetanjali Mukherjee](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=568f82d668&e=bc5cbc9b90)_

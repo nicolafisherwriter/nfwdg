@@ -1,1 +1,0 @@
-And a lot of times that’s where I see copywriters screw up, is there’s never that call to action at the end of it all. They might write a long blog post or write a long email, or whatever, and you get to the bottom of it and you’re kind of scratching your head like, “What do you want me to do?”

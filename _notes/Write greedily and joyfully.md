@@ -1,3 +1,0 @@
-### “I started writing again like someone who has never written, because it was a long time since I had written anything, and the words seemed rinsed and fresh, everything was new and as it were untouched, and full of taste and fragrance. I wrote in the afternoons while a local girl took my children out for a walk, and I wrote greedily and joyfully; it was a beautiful autumn and I felt very happy every day.”
-
-#### – Natalia Ginzburg, _[My Vocation](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=dd19750386&e=bc5cbc9b90)_

@@ -1,5 +1,0 @@
-When something’s not coming, it’s coming... What we are talking about is not a period of ‘not coming’ but a period of ‘not arriving’. The lyrics are always coming. They are always pending. They are always on their way toward us. But often they must journey a great distance and over vast stretches of time to get there. They advance through the rugged terrains of lived experience, battling to arrive at the end of our pen.
-
-In time, they emerge, leaping free of the unknown — from memory or, more thrillingly, from the predictive part of our minds that exists on the far side of the lived moment. It has been a long and arduous journey, and our waiting much anguished.
-
-Our task is to remain patient and vigilant and to not lose heart - for we are the destination. We are the portals from which the idea explodes, forced forth by its yearning to arrive ~ Nick Cave, [The Red Hand Files](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=587f3324fb&e=eb9759f735)

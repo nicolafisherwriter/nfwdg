@@ -1,1 +1,0 @@
-# Most people live life on the path we set for them. Too afraid to explore any other. But once in a while, people like you come along who knock down all the obstacles we put in your way. People who realize free will is a gift you'll never know how to use until you fight for it. I think that's the Chairman's real plan that maybe one day, we won't write the plan. You will.

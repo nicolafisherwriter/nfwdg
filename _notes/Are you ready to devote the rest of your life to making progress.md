@@ -1,3 +1,0 @@
-How long will you wait before you demand the best of yourself? … If you remain careless and lazy, making excuse after excuse, fixing one day after another when you will finally take yourself in hand, your lack of progress will go unnoticed, and in the end you will have lived and died unenlightened. Finally decide that you are an adult who is going to devote the rest of your life to making progress ~ Epictetus, [Enchiridion (Chapter 51)](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=2dc7ffb232&e=bc5cbc9b90)
-
-#quotes 

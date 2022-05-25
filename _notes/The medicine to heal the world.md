@@ -1,1 +1,0 @@
-When you are connected to your passion, your heart is free. Joy flows through you like an open tap. You can feel it, the serene certainty of your purpose coursing through you like a current. This is what you are meant for. Here is your gift, the medicine that will heal you and help you heal the world ~Ara

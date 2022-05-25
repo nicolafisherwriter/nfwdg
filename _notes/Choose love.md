@@ -1,1 +1,0 @@
-Those who choose love – daring to feel to the depths of being, accepting responsibility for their actions, and seeking a purpose in life – will find that the world of significant living will unfold its cleverly concealed presence ~ Barbara Marciniak
