@@ -19,6 +19,8 @@ To navigate, choose a link below, and then click on the graph at the bottom of a
 - [[myth - Obsidian is too complicated. Not if you think of it as a house!]]
 - [[Love is Blind]]
 
+---
+
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 
 *This digital garden is created in Obsidian, set up using GitHub and Netlify, and a template by [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template). Use this [step by step guide](https://beingpax.medium.com/a-non-technical-guide-to-set-up-digital-garden-with-obsidian-for-free-62d6df75553c) to publish your own digital garden.*
