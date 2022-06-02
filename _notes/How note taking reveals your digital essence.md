@@ -13,14 +13,6 @@ fc-category: medium
 url: 
 ---
 
-## My notes
-
-### Why has note taking become a trend?
-
----
-
-#### Why has note taking become a trend?
-
 To mention _note_ and _life changing_ in the same sentence seems improbable. It is true that note taking has transformed my work and life. I’ve come across others saying the same.
 
 I was 57 when I came across note taking in its current form. I’d been a life long note taker. But these were random, disconnected notes. Often written in notebooks and forgotten. The new notes are different.
@@ -104,4 +96,4 @@ This also relates to *link to other notes*
 
 ## References
 
-[*]: Kleon, Austin. Steal Like an Artist: 10 Things Nobody Told You About Being Creative (Austin Kleon). Workman Publishing Company. Kindle Edition.
+Kleon, Austin. Steal Like an Artist: 10 Things Nobody Told You About Being Creative (Austin Kleon). Workman Publishing Company. Kindle Edition.
