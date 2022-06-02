@@ -1,3 +1,0 @@
-### “All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.”
-
-**– Niccolo Machiavelli,** _[**The Prince**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=7132dd5729&e=bc5cbc9b90)_

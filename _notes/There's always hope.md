@@ -1,3 +1,0 @@
-### “What it taught me is that it's necessary and important to witness, to be a witness, to be a testimony to suffering and darkness and cruelty. And also in looking at that darkness that there's always light, that there's always hope. We can't turn away from it. In the world now or in the world in history then. Hate grows in darkness, and we have to look it straight in the eye and confront our past so we can understand our present so we can change our future.”
-
-[**– Damian Barr**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=ad79295426&e=bc5cbc9b90)

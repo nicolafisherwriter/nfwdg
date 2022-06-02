@@ -1,3 +1,0 @@
-### “The main rule of writing is that if you do it with enough assurance and confidence, you’re allowed to do whatever you like. (That may be a rule for life as well as for writing. But it’s definitely true for writing.) So write your story as it needs to be written. Write it honestly, and tell it as best you can. I’m not sure that there are any other rules. Not ones that matter.”
-
-#### – [Neil Gaiman](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=e0374d4fef&e=bc5cbc9b90)

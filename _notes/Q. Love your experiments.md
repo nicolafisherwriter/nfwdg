@@ -1,3 +1,0 @@
-Love your experiments (as you would an ugly child). Joy is the engine of growth. Exploit the liberty in casting your work as beautiful experiments, iterations, attempts, trials, and errors. Take the long view, and allow yourself the fun of failure every day ~ Bruce Mau, [Incomplete Manifesto for Growth](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=5ffdc103cc&e=eb9759f735)
-
-#quotes #joy #twtd 

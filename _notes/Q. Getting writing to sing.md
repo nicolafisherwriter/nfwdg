@@ -1,3 +1,0 @@
-Of course, there are those critics - New York critics as a rule - who say, 'Well, Maya Angelou has a new book out and of course it's good but then she's a natural writer.' Those are the ones I want to grab by the throat and wrestle to the floor because it takes me forever to get it to sing. I work at the language ~ [Maya Angelou](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=ce19b609e2&e=eb9759f735)
-
-#mayaangelou #writing #quotes 

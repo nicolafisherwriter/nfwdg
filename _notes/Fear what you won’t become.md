@@ -1,3 +1,0 @@
-### “All growth is a leap in the dark. If you’re afraid of that, you’ll never do anything worthwhile. If you take counsel of your fears, you’ll never take that step, make that leap. There’s no way around it—there is no progress without risk. If fear is to be a driving force in your life, fear what you’ll miss. Fear what happens if you don’t act. Fear what they’ll think of you, what you’ll think of yourself, down the road, for having dared so little. Think of what you’re leaving on the table. Think of the terrifying costs of playing small.”
-
-#### – Ryan Holiday, _[15 Ways To Overcome The Fear That’s Killing Your Potential](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=8e85f1ea35&e=bc5cbc9b90)_

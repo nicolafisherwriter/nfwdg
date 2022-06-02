@@ -1,1 +1,0 @@
-The reason why the Universe is eternal is that it does not live for itself. It gives to others as it transforms ~ Lao Tzu

@@ -1,3 +1,0 @@
-_"When you’re writing, you’re trying to find out something which you don’t know. The whole language of writing for me is finding out what you don’t want to know, what you don’t want to find out. But something forces you to anyway."_
-
-– James Baldwin, _[1984 interview with The Paris Review](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=075a716de8&e=bc5cbc9b90)_

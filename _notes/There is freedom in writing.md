@@ -1,3 +1,0 @@
-There is freedom in being a writer and writing. It is fulfilling your function. I used to think freedom meant doing whatever you want. No, It means knowing who you are, what you are supposed to be doing on this earth, and then simply doing it ~ Natalie Goldberg, [Writing Down the Bones: Freeing the Writer Within](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=d6f76f2126&e=bc5cbc9b90)
-
-#quotes 
