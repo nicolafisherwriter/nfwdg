@@ -1,0 +1,1 @@
+It is totally 100% true: nearly all the elements in the human body were made in a star and many have come through several supernovas ~ [Dr Ashley King](https://www.nhm.ac.uk/discover/are-we-really-made-of-stardust.html) 

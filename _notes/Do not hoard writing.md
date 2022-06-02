@@ -1,0 +1,16 @@
+---
+title: do not hoard writing
+tags: quote
+project: twitter
+due: 
+type: quote
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: twitter
+url:
+---
+
+One of the things I know about writing is this: spend it all, shoot it, play it, lose it, all, right away, every time. Do not hoard what seems good for a later place in the book or for another book; give it, give it all, give it now. The impulse to save something good for a better place later is the signal to spend it now. Something more will arise for later, something better. These things fill from behind, from beneath, like well water. Similarly, the impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes ~ Annie Dillard, [The Writing Life](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flondonwriterssalon.us4.list-manage.com%2Ftrack%2Fclick%3Fu%3D8b047263967451488070a8ad0%26id%3D53f1574ecd%26e%3Dd0baf97615&data=04%7C01%7C%7C97e882b8572c48b077b008d941e86e1e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637613288793526251%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=1FypiY9roAoWfkqm%2Fk4K6SUwezxZftUW5pdHBfthFIM%3D&reserved=0 "Protected by Outlook: https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=53f1574ecd&e=d0baf97615. Click or tap to follow the link.")

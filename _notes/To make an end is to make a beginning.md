@@ -1,0 +1,5 @@
+For last year's words belong to last year's language,  
+And next year's words await another voice.  
+And to make an end is to make a beginning ~ T.S. Eliot, [Little Gidding](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flondonwriterssalon.us4.list-manage.com%2Ftrack%2Fclick%3Fu%3D8b047263967451488070a8ad0%26id%3Dde10859e1b%26e%3Dd0baf97615&data=04%7C01%7C%7Ce475b4f25c5141bf3a7108d96b8e3291%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637659080737719890%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=wEoMxzPB368jNRLgPTNG3jYMHuukY%2FNSU1VY%2Fz1H9oQ%3D&reserved=0 "Protected by Outlook: https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=de10859e1b&e=d0baf97615. Click or tap to follow the link.")
+
+#quotes 

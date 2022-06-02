@@ -1,0 +1,1 @@
+https://zingdad.com/images/downloads/the_ascension_papers_book_1_-_zingdad.pdf

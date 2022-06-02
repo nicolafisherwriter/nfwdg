@@ -7,25 +7,17 @@ permalink: /
 
 ## Welcome! 🌱
 
-I'm [[Nicola]] and you're reading my published Obsidian notes. Some of these are works in progress, some merely ideas or headlines, others have been published elsewhere. Notes, and my thinking, may be incomplete.
+I'm [[Nicola]] and you're reading my published [[Obsidian]] notes. Some of these are works in progress, some merely ideas or headlines, others have been published elsewhere. Notes, and my thinking, may be incomplete.
 
-The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric, what I'm [[learning]] and my love of [[gardening]]. 
+The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
 
-To navigate, click on any of the links below or use the graph at the bottom of the page.
+To navigate, choose a link below, and then click on the graph at the bottom of any page.
 
-- [[Tech and Tools]]
-	- [[Obsidian]]
-	- [[Digital Gardening]]
-	- [[Planning]]
-
-- [[Writing]]
-	- [[Fiction]]
-	- [[Thoughts]]
-
-- [[Reading]]
-	- [[References]]
-	- [[Quotes]]
-	- [[Twitter]]
+- [[How I met Bill Murray in Paris]]
+- [[Alice]]
+- [[How note taking reveals your digital essence]]
+- [[myth - Obsidian is too complicated. Not if you think of it as a house!]]
+- [[Love is Blind]]
 
 ![](https://source.unsplash.com/aAbc_C7PH4Y/1900x1200)
 

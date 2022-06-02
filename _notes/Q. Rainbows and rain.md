@@ -1,0 +1,1 @@
+The way I see it, if you want the rainbows you gotta put up with the rain ~ [Dolly Parton](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=63fc4fd4fb&e=eb9759f735)

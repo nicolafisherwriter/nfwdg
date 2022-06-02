@@ -1,0 +1,3 @@
+### “It's about finding _your_ people, _your_ listeners, _your_ readers, and making art for and with _them_. Not for the masses, not for the critics, but for your ever-widening circle of friends. It doesn't mean you're protected from criticism. If you lean out that window and shout down to your friends, you might get an apple chucked at your head. But if your heart touches a single nerve, you'll see people quietly heading your way and knocking on your door. Let them in. Tell them to bring their friends up. If possible, provide wine.”
+
+**— Amanda Palmer,** [**The Art of Asking: How I stopped worrying and let people help**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=986ff97821&e=bc5cbc9b90)

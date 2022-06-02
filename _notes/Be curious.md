@@ -1,0 +1,3 @@
+### “I have found it helps to be curious and ask questions, not only of others but of ourselves. I try to do this often talking to myself as if I were speaking to a friend. 'I am not good enough' becomes ‘I am enough’. The words we say to ourselves really do matter, and no one needs to accept the place they find themselves in. Instead of saying ‘I can’t' the question to ask is ‘How can I?’. Find out where the negative comes from and challenge that with action.”
+
+**– Nahla Summers,** _[**The Accidental Adventurer**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=6d060f5384&e=bc5cbc9b90)_

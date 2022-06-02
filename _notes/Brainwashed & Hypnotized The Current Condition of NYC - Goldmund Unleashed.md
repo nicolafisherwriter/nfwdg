@@ -1,0 +1,1 @@
+These weren’t conversations they were having, they were tests of compliance meant to keep one another in check, an extraordinary means to keep them locked in a constant state of anxiety and confusion. The obsession with political correctness was obnoxious when it first became trendy in Brooklyn, and even more pathetic now it had hit the mainstream.

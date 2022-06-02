@@ -1,0 +1,3 @@
+Every now and then, when the flow's not coming, you gotta get up from your couch or the desk, you gotta go out on the porch, look up at the sky and enjoy the humility of just taking in this obviously superior and more complex creativity. What we do could never match that. Could I ever write a poem as intricate as a pinecone? ~ Nathaniel Mackey, [The New Yorker (April 12, 2021)](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=dda97d30db&e=eb9759f735)
+
+#quotes #writing #flow
