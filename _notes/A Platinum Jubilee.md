@@ -18,7 +18,7 @@ I'm not a monarchist. I used to be. I remember when Diana married Charles, and l
 
 It was the beginning of the end of the monarchy. The mystique was gone, and the truth was starting to come out.
 
-Some would argue that the Queen has done a sterling job for the country and I'm sure she has. But, increasingly the monarchy has become an anachronism, symbolic of members of a ??? family living lavishly at the expense of their people.
+Some would argue that the Queen has done a sterling job for the country and I'm sure she has. But, increasingly the monarchy has become an anachronism, symbolic of members of a dysfunctional family living lavishly at the expense of their people.
 
 ---
 
