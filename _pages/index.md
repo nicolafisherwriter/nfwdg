@@ -13,7 +13,7 @@ The range of topics reflects my eclectic fascinations from tech, writing, to the
 
 To navigate, choose a link below, and then click on the graph at the bottom of any page.
 
-- [[How I met Bill Murray in Paris]]
+- [[02 GitHub/notes/how I met Bill Murray in Paris]]
 - [[Alice]]
 - [[How note taking reveals your digital essence]]
 - [[myth - Obsidian is too complicated. Not if you think of it as a house!]]
@@ -31,6 +31,6 @@ Copyright © 2022 Nicola Fisher
 
 <style>
   .wrapper {
-    max-width: 33em;
+    max-width: 53em;
   }
 </style>
