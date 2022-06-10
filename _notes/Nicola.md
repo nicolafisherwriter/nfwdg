@@ -88,6 +88,6 @@ Copyright © 2022 Nicola Fisher
 
 <style>
   .wrapper {
-    max-width: 33em;
+    max-width: 52em;
   }
 </style>
