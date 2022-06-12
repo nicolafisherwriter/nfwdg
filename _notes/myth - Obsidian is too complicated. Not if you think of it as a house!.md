@@ -1,9 +1,18 @@
 ---
-title: myth - Obsidian is too complicated. Not if you think of it as a house.
-tags: writing
+title: Myth - Obsidian is too complicated. Not if you think of it as a house!
+tags: evergreen
+created: 2022-02-14 08:16
+project: 
+due: 
+type: 
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: 
+url:
 ---
-
-# myth - Obsidian is too complicated. Not if you think of it as a house!
 
 I’ve been a fan of [[Obsidian]] since April 2021 when I first heard about it. I stayed up late into the night learning about potential setups. I experimented with plugins. I organised my folders and my tags. I watched countless explanatory YouTube videos.
 
@@ -81,4 +90,20 @@ Obsidian is the home for _your_ notes and thoughts. Make it your own.
 
 Start at the beginning, one step at a time. Allow your setup to evolve organically. Think of it as a work in progress, and enjoy the journey!
 
-[[Obsidian]]
+---
+
+## Source
+
+Source or reference
+
+---
+
+## Parent note
+
+[[One year of Obsidian]]
+
+---
+
+## Other related notes
+
+This also relates to [[Obsidian is a game changer if you want to write a book]], [[why Obsidian is so great for writing]], [[How Obsidian's Dataview and Workspaces help me live at a gentler pace]].
