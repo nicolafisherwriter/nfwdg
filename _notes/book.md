@@ -1,17 +1,17 @@
 ---
-layout: page
 title: book
-tags: book
+tags: evergreen
+created: 2022-07-11 19:35
+project: 
+due: 
+type: 
+fc-calendar: content calendar
+fc-date:
+ year: 
+ month: 
+ day: 
+fc-category: 
+url:
 ---
 
-## Live Life Gently - Change the World 
-
-is about the journey we take through life, the pivotal moments that launch us on new paths, and the peaks and troughs that reveal who we truly are.
-
-Start here: [Table of Contents](https://nicolawrites.co.uk/contents)
-
-<style>
-  .wrapper {
-    max-width: 33em;
-  }
-</style>
+Click here to read my book, [Live Life Gently - Save the World](https://livelifegently.markbase.xyz/)
