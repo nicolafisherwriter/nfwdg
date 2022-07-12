@@ -1,0 +1,1 @@
+And then I had this warrior moment and I remember exactly where I was standing and I stood up and I said out loud, “I never promised the universe I would be a good writer. I just promised the universe I would be a writer.

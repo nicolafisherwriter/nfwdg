@@ -1,0 +1,1 @@
+“If you don’t like it, go write your own f\*\*king book. And you know what? You won’t! Guess what, you won’t! You won’t and guess what, I did, and therefore I won.”

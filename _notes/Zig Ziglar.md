@@ -1,0 +1,1 @@
+And the worst thing to do, in the words of Zig Ziglar, are to be a wandering generality. What you need to be is a meaningful specific. That means you have to claim it, you have to put yourself on the spot, you have to make a promise and say, “I do this. You can count on me, that’s what you’re going to get from me.”

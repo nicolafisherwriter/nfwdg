@@ -1,0 +1,3 @@
+### “The interesting thing, in my experience, is that the result of \[my\] laborious and slightly obsessive \[writing\] process is a story that is better than I am in “real life” – funnier, kinder, less full of crap, more empathetic, with a clearer sense of virtue, both wiser and more entertaining. And what a pleasure that is; to be, on the page, less of a dope than usual.”
+
+#### — George Saunders, _[What writers really do when they write](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=76d1f5f047&e=bc5cbc9b90)_
