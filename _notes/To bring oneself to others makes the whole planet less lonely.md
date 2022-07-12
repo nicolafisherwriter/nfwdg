@@ -1,3 +1,0 @@
-### “. . . I still feel awe for us . . . for the great courage all of us show in trying to wring some truth from the godawful mess of a single life. To bring oneself to others makes the whole planet less lonely. The nobility of everybody trying boggles the mind.”
-
-**– Mary Karr,** _[**The Art of Memoir**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=00039d4a6f&e=bc5cbc9b90)_

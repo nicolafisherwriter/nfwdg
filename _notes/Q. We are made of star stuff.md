@@ -1,1 +1,0 @@
-The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself ~ Carl Sagan ^d8090e

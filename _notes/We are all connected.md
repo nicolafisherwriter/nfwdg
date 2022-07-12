@@ -1,1 +1,0 @@
-We are all connected. To each other, biologically. To the earth, chemically. To the rest of the Universe, atomically ~ Neil deGrasse Tyson
