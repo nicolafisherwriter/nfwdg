@@ -9,17 +9,7 @@ permalink: /
 
 ---
 
-I'm [[Nicola]] and you're reading my published [[Obsidian]] notes. Some of these are works in progress, some merely ideas or headlines, others have been published elsewhere. Notes, and my thinking, may be incomplete.
-
-The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
-
-To navigate, choose a link below, and then click on the graph at the bottom of any page.
-
-- [[How I met Bill Murray in Paris]]
-- [[Alice]]
-- [[How note taking reveals your digital essence]]
-- [[myth - Obsidian is too complicated. Not if you think of it as a house!]]
-- [[Love is Blind]]
+You can now find my Digital Garden [here](https://nicolafisherwriter.co.uk/).
 
 ---
 
