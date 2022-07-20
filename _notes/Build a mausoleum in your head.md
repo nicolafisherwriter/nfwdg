@@ -1,3 +1,0 @@
-### "You need to build a mausoleum in your head with big iron doors so that nobody can get in there except you. You don't let me in there. You don't let June in there, you don't let your manager in there, you don't let the record company people in there. You have to decide for yourself what you want to do with your music – and not let anyone else tell you."
-
-#### _– Producer Bob Johnson to Johnny Cash (read by [Ryan Holiday](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=3d9aea3d0b&e=bc5cbc9b90))_

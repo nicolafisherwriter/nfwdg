@@ -1,3 +1,0 @@
-### “I am concerned rather with an internal than an external truth; and, as I have already said, the internal truth is almost indescribable. We have to speak of something of which it is the whole point that people do not speak of it; we have not merely to translate from a strange tongue or speech, but from a strange silence.”
-
-**–** [**GK Chesterton**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=868d890403&e=bc5cbc9b90)

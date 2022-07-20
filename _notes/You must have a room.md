@@ -1,3 +1,0 @@
-You must have a room, or a certain hour or so a day, where you don’t know what was in the newspapers that morning, you don’t know who your friends are, you don’t know what you owe anybody, you don’t know what anybody owes to you. This is a place where you can simply experience and bring forth what you are and what you might be. This is the place of creative incubation. At first you may find that nothing happens there. But if you have a sacred place and use it, something eventually will happen.
-
-– **Joseph Cambell, _The Power of Myth_**
